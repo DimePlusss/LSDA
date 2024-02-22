@@ -1,0 +1,1826 @@
+
+###############################
+
+###############################
+ADULT_COMPLEX, FULL, INSPECTION_TRAIN, 100, CTE, NON-MATERIALIZED, Pandas/Original, 4402.074821002316, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/adult_complex/adult_train.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/adult_complex/adult_test.csv']
+
+###############################
+ADULT_COMPLEX, FULL, INSPECTION_TRAIN, 100, CTE, NON-MATERIALIZED, PostgreSQL, 1235.9926960198209, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/adult_complex/adult_train.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/adult_complex/adult_test.csv']
+
+###############################
+
+###############################
+
+###############################
+ADULT_COMPLEX, FULL, INSPECTION_TRAIN, 100, CTE, NON-MATERIALIZED, Pandas/Original, 4254.579589993227, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/adult_complex/adult_train.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/adult_complex/adult_test.csv']
+
+###############################
+ADULT_COMPLEX, FULL, INSPECTION_TRAIN, 100, CTE, NON-MATERIALIZED, PostgreSQL, 1197.3997049790341, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/adult_complex/adult_train.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/adult_complex/adult_test.csv']
+
+###############################
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, Pandas/Original, 24.99669199460186, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, PostgreSQL, 3.4036636352539062, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, Pandas/Original, 20.964650000678375, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, PostgreSQL, 3.8042068481445312, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, Pandas/Original, 61.422489990945905, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, PostgreSQL, 3.7260055541992188, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, Pandas/Original, 54.071359016234055, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, PostgreSQL, 3.8721561431884766, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, Pandas/Original, 21.72874400002911, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, PostgreSQL, 3.949403762817383, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 1000, CTE, NON-MATERIALIZED, Pandas/Original, 20.276010999623395, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_1000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_1000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 1000, CTE, NON-MATERIALIZED, PostgreSQL, 6.329059600830078, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_1000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_1000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 10000, CTE, NON-MATERIALIZED, Pandas/Original, 37.361671999860846, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_10000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_10000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 10000, CTE, NON-MATERIALIZED, PostgreSQL, 26.842832565307617, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_10000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_10000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100000, CTE, NON-MATERIALIZED, Pandas/Original, 257.01824499992654, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100000, CTE, NON-MATERIALIZED, PostgreSQL, 568.671464920044, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100000.csv')]
+
+###############################
+
+###############################
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, Pandas/Original, 18.992158999935782, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, PostgreSQL, 3.256559371948242, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 1000, CTE, NON-MATERIALIZED, Pandas/Original, 20.01996600029088, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_1000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_1000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 1000, CTE, NON-MATERIALIZED, PostgreSQL, 2.630949020385742, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_1000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_1000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 10000, CTE, NON-MATERIALIZED, Pandas/Original, 38.97063899967179, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_10000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_10000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 10000, CTE, NON-MATERIALIZED, PostgreSQL, 20.343780517578125, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_10000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_10000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100000, CTE, NON-MATERIALIZED, Pandas/Original, 245.14494100003503, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100000, CTE, NON-MATERIALIZED, PostgreSQL, 562.981128692627, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100000.csv')]
+
+###############################
+
+###############################
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, Pandas/Original, 13.718743000026734, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, PostgreSQL, 3.5343170166015625, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 1000, CTE, NON-MATERIALIZED, Pandas/Original, 19.59902199996577, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_1000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_1000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 1000, CTE, NON-MATERIALIZED, PostgreSQL, 5.300998687744141, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_1000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_1000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 10000, CTE, NON-MATERIALIZED, Pandas/Original, 36.14325799935614, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_10000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_10000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 10000, CTE, NON-MATERIALIZED, PostgreSQL, 21.02947235107422, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_10000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_10000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100000, CTE, NON-MATERIALIZED, Pandas/Original, 238.4518870003376, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100000, CTE, NON-MATERIALIZED, PostgreSQL, 572.5240707397461, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100000.csv')]
+
+###############################
+
+###############################
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, Pandas/Original, 21.087582999825827, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, PostgreSQL, 2.133607864379883, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 1000, CTE, NON-MATERIALIZED, Pandas/Original, 21.288171999913175, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_1000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_1000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 1000, CTE, NON-MATERIALIZED, PostgreSQL, 3.7720203399658203, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_1000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_1000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 10000, CTE, NON-MATERIALIZED, Pandas/Original, 51.97321000014199, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_10000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_10000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 10000, CTE, NON-MATERIALIZED, PostgreSQL, 29.994726181030273, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_10000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_10000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100000, CTE, NON-MATERIALIZED, Pandas/Original, 230.71462099960627, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100000, CTE, NON-MATERIALIZED, PostgreSQL, 577.1515369415283, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100000.csv')]
+
+###############################
+
+###############################
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, Pandas/Original, 18.923222000012174, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, PostgreSQL, 3.4787654876708984, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 1000, CTE, NON-MATERIALIZED, Pandas/Original, 23.191807999864977, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_1000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_1000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 1000, CTE, NON-MATERIALIZED, PostgreSQL, 4.347801208496094, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_1000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_1000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 10000, CTE, NON-MATERIALIZED, Pandas/Original, 34.76043800037587, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_10000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_10000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 10000, CTE, NON-MATERIALIZED, PostgreSQL, 20.342588424682617, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_10000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_10000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100000, CTE, NON-MATERIALIZED, Pandas/Original, 245.87401099961426, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100000, CTE, NON-MATERIALIZED, PostgreSQL, 577.629566192627, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100000.csv')]
+
+###############################
+
+###############################
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, Pandas/Original, 20.986795999306196, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, PostgreSQL, 3.2806396484375, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, Umbra, 4.259824752807617, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 1000, CTE, NON-MATERIALIZED, Pandas/Original, 20.719576999908895, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_1000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_1000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 1000, CTE, NON-MATERIALIZED, PostgreSQL, 2.6085376739501953, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_1000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_1000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 1000, CTE, NON-MATERIALIZED, Umbra, 5.418062210083008, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_1000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_1000.csv')]
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 10000, CTE, NON-MATERIALIZED, Pandas/Original, 37.78378900005919, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_10000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_10000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 10000, CTE, NON-MATERIALIZED, PostgreSQL, 20.895004272460938, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_10000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_10000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 10000, CTE, NON-MATERIALIZED, Umbra, 7.935523986816406, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_10000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_10000.csv')]
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100000, CTE, NON-MATERIALIZED, Pandas/Original, 250.4947710003762, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100000, CTE, NON-MATERIALIZED, PostgreSQL, 560.8539581298828, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100000, CTE, NON-MATERIALIZED, Umbra, 17.966032028198242, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100000.csv')]
+
+###############################
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, Pandas/Original, 45.69319800066296, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, PostgreSQL, 3.510713577270508, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, Umbra, 3.6466121673583984, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 1000, CTE, NON-MATERIALIZED, Pandas/Original, 66.88183299957018, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_1000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_1000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 1000, CTE, NON-MATERIALIZED, PostgreSQL, 2.525806427001953, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_1000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_1000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 1000, CTE, NON-MATERIALIZED, Umbra, 4.067182540893555, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_1000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_1000.csv')]
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 10000, CTE, NON-MATERIALIZED, Pandas/Original, 82.91683700008434, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_10000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_10000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 10000, CTE, NON-MATERIALIZED, PostgreSQL, 19.645214080810547, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_10000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_10000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 10000, CTE, NON-MATERIALIZED, Umbra, 7.651805877685547, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_10000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_10000.csv')]
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100000, CTE, NON-MATERIALIZED, Pandas/Original, 277.29597100005776, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100000, CTE, NON-MATERIALIZED, PostgreSQL, 572.0796585083008, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100000, CTE, NON-MATERIALIZED, Umbra, 22.30548858642578, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100000.csv')]
+
+###############################
+
+###############################
+
+###############################
+
+###############################
+
+###############################
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, Pandas/Original, 58.60708699765382,                 0.0, 0.0, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, Pandas/Original, 51.30621499847621,                 0.0, 0.0, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, PostgreSQL, 1.7135143280029297,                 0.0, 0.0, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, Pandas/Original, 51.53671200241661,                 0.0, 0.0, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, PostgreSQL, 1.2507438659667969,                 0.0, 0.0, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, Pandas/Original, 22.535684998729266,                 0.0, 0.0, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, PostgreSQL, 2.2433598836263022,                 0.6400079857687363, 0.8000049910898909, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, Umbra, 2.858320871988932,                 0.10549688845963424, 0.3248028455226866, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 1000, CTE, NON-MATERIALIZED, Pandas/Original, 24.533677998988423,                 0.0, 0.0, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_1000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_1000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 1000, CTE, NON-MATERIALIZED, PostgreSQL, 3.6172072092692056,                 2.4867505064523563, 1.5769434062300258, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_1000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_1000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 1000, CTE, NON-MATERIALIZED, Umbra, 3.241459528605143,                 0.9482973205700143, 0.9738055866393529, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_1000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_1000.csv')]
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 10000, CTE, NON-MATERIALIZED, Pandas/Original, 38.24200300005032,                 0.0, 0.0, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_10000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_10000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 10000, CTE, NON-MATERIALIZED, PostgreSQL, 20.945072174072266,                 5.669340566782921, 2.381037707971657, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_10000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_10000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 10000, CTE, NON-MATERIALIZED, Umbra, 6.3749949137369795,                 0.0011418074387216216, 0.0337906412889963, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_10000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_10000.csv')]
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100000, CTE, NON-MATERIALIZED, Pandas/Original, 230.35103200527374,                 0.0, 0.0, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100000, CTE, NON-MATERIALIZED, PostgreSQL, 570.134162902832,                 145.16708282978166, 12.048530318249677, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100000.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100000, CTE, NON-MATERIALIZED, Umbra, 16.593456268310547,                 4.909371038290071, 2.2157100528476352, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100000.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100000.csv')]
+
+###############################
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, Pandas/Original, 65.6972090000636,0.0, 0.0, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+
+###############################
+ADULT_COMPLEX, FULL, INSPECTION_TRAIN, 100, CTE, NON-MATERIALIZED, Pandas/Original, 19252.444837666797, 1474702.514756827, 1214.373301236826, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/adult_complex/adult_train.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/adult_complex/adult_test.csv']
+
+###############################
+ADULT_COMPLEX, FULL, INSPECTION_TRAIN, 100, CTE, NON-MATERIALIZED, PostgreSQL, 1436.7844346682734, 211.883017375549, 14.556202024413821, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/adult_complex/adult_train.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/adult_complex/adult_test.csv']
+
+###############################
+
+###############################
+ADULT_COMPLEX, FULL, INSPECTION_TRAIN, 100, CTE, NON-MATERIALIZED, Pandas/Original, 18908.39016133153, 1328135.257199182, 1152.4475073508477, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/adult_complex/adult_train.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/adult_complex/adult_test.csv']
+
+###############################
+
+###############################
+
+###############################
+ADULT_COMPLEX, FULL, INSPECTION_TRAIN, 100, CTE, NON-MATERIALIZED, PostgreSQL, 1565.6774676657126, 236364.1706495312, 486.1729842859753, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/adult_complex/adult_train.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/adult_complex/adult_test.csv']
+
+###############################
+
+###############################
+
+###############################
+
+###############################
+
+###############################
+ADULT_COMPLEX, FULL, INSPECTION_TRAIN, 100, CTE, NON-MATERIALIZED, PostgreSQL, 1540.3613320013392, 231418.72467771723, 481.06000112014846, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/adult_complex/adult_train.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/adult_complex/adult_test.csv']
+
+###############################
+
+###############################
+
+###############################
+
+###############################
+
+###############################
+
+###############################
+
+###############################
+
+###############################
+
+###############################
+
+###############################
+
+###############################
+COMPAS, FULL, INSPECTION_TRAIN, 100, CTE, NON-MATERIALIZED, Umbra, 1071.0864016630997, 199633.41693867592, 446.80355519923506, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_train.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_test.csv']
+
+###############################
+
+###############################
+COMPAS, FULL, INSPECTION_TRAIN, 100, CTE, NON-MATERIALIZED, Umbra, 1100.7283873356453, 189936.63877042072, 435.81720797878177, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_train.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_test.csv']
+
+###############################
+COMPAS, FULL, INSPECTION_TRAIN, 100, CTE, NON-MATERIALIZED, Umbra, 1080.1316786673851, 211803.3317645327, 460.2209597188428, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_train.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_test.csv']
+
+###############################
+
+###############################
+LOAD CSV 1, 146.46005630493164, 146.46005630493164, PostgreSQL/Umbra
+LOAD CSV 2, 79.56218719482422, 226.02224349975586, PostgreSQL/Umbra
+PROJECT TRAIN, 117.39468574523926, 343.4169292449951, PostgreSQL/Umbra
+PROJECT TEST, 56.46562576293945, 399.88255500793457, PostgreSQL/Umbra
+SELECT TRAIN 1, 221.2822437286377, 621.1647987365723, PostgreSQL/Umbra
+SELECT TRAIN 2, 144.3955898284912, 765.5603885650635, PostgreSQL/Umbra
+SELECT TRAIN 3, 144.9885368347168, 910.5489253997803, PostgreSQL/Umbra
+SELECT TRAIN 4, 145.44391632080078, 1055.992841720581, PostgreSQL/Umbra
+REPLACE TRAIN, 70.07980346679688, 1126.072645187378, PostgreSQL/Umbra
+REPLACE TEST, 40.5421257019043, 1166.6147708892822, PostgreSQL/Umbra
+BINARIZE TRAIN, 110.81171035766602, 1277.4264812469482, PostgreSQL/Umbra
+BINARIZE TEST, 59.136390686035156, 1336.5628719329834, PostgreSQL/Umbra
+PIPELINE+MODEL FIT, 558.8769912719727, 1895.439863204956, PostgreSQL/Umbra
+PIPELINE+MODEL SCORE, 9.24539566040039, 1904.6852588653564, PostgreSQL/Umbra
+LOAD CSV 1, 146.0554599761963, 2050.7407188415527, PostgreSQL/Umbra
+LOAD CSV 2, 76.64060592651367, 2127.3813247680664, PostgreSQL/Umbra
+PROJECT TRAIN, 113.47723007202148, 2240.858554840088, PostgreSQL/Umbra
+PROJECT TEST, 56.941986083984375, 2297.8005409240723, PostgreSQL/Umbra
+SELECT TRAIN 1, 220.10040283203125, 2517.9009437561035, PostgreSQL/Umbra
+SELECT TRAIN 2, 146.1343765258789, 2664.0353202819824, PostgreSQL/Umbra
+SELECT TRAIN 3, 146.73590660095215, 2810.7712268829346, PostgreSQL/Umbra
+SELECT TRAIN 4, 148.73909950256348, 2959.510326385498, PostgreSQL/Umbra
+REPLACE TRAIN, 71.20585441589355, 3030.7161808013916, PostgreSQL/Umbra
+REPLACE TEST, 40.31872749328613, 3071.0349082946777, PostgreSQL/Umbra
+BINARIZE TRAIN, 110.39257049560547, 3181.427478790283, PostgreSQL/Umbra
+BINARIZE TEST, 59.9818229675293, 3241.4093017578125, PostgreSQL/Umbra
+PIPELINE+MODEL FIT, 485.07165908813477, 3726.4809608459473, PostgreSQL/Umbra
+PIPELINE+MODEL SCORE, 7.251739501953125, 3733.7327003479004, PostgreSQL/Umbra
+LOAD CSV 1, 108.15572738647461, 3841.888427734375, PostgreSQL/Umbra
+LOAD CSV 2, 57.15179443359375, 3899.0402221679688, PostgreSQL/Umbra
+PROJECT TRAIN, 81.37011528015137, 3980.41033744812, PostgreSQL/Umbra
+PROJECT TEST, 39.56437110900879, 4019.974708557129, PostgreSQL/Umbra
+SELECT TRAIN 1, 148.26488494873047, 4168.239593505859, PostgreSQL/Umbra
+SELECT TRAIN 2, 93.89615058898926, 4262.135744094849, PostgreSQL/Umbra
+SELECT TRAIN 3, 94.50364112854004, 4356.639385223389, PostgreSQL/Umbra
+SELECT TRAIN 4, 92.84543991088867, 4449.484825134277, PostgreSQL/Umbra
+REPLACE TRAIN, 43.779611587524414, 4493.264436721802, PostgreSQL/Umbra
+REPLACE TEST, 25.176286697387695, 4518.440723419189, PostgreSQL/Umbra
+BINARIZE TRAIN, 68.12310218811035, 4586.5638256073, PostgreSQL/Umbra
+BINARIZE TEST, 36.91911697387695, 4623.482942581177, PostgreSQL/Umbra
+PIPELINE+MODEL FIT, 351.4225482940674, 4974.905490875244, PostgreSQL/Umbra
+PIPELINE+MODEL SCORE, 7.068395614624023, 4981.973886489868, PostgreSQL/Umbra
+COMPAS_TIMED, FULL, INSPECTION_TRAIN, 100, VIEW, NON-MATERIALIZED, Pandas/Original, 2448.505823000005, 1379187.495081241, 1174.3881364698984, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_train.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_test.csv']
+
+###############################
+LOAD CSV 1, 94.77424621582031, 5076.7481327056885, PostgreSQL/Umbra
+LOAD CSV 2, 61.258554458618164, 5138.006687164307, PostgreSQL/Umbra
+PROJECT TRAIN, 29.112577438354492, 5167.119264602661, PostgreSQL/Umbra
+PROJECT TEST, 31.288862228393555, 5198.408126831055, PostgreSQL/Umbra
+SELECT TRAIN 1, 51.546573638916016, 5249.954700469971, PostgreSQL/Umbra
+SELECT TRAIN 2, 38.96379470825195, 5288.918495178223, PostgreSQL/Umbra
+SELECT TRAIN 3, 39.43181037902832, 5328.350305557251, PostgreSQL/Umbra
+SELECT TRAIN 4, 41.92185401916504, 5370.272159576416, PostgreSQL/Umbra
+REPLACE TRAIN, 47.41168022155762, 5417.683839797974, PostgreSQL/Umbra
+REPLACE TEST, 42.72174835205078, 5460.405588150024, PostgreSQL/Umbra
+BINARIZE TRAIN, 19.12689208984375, 5479.532480239868, PostgreSQL/Umbra
+BINARIZE TEST, 10.823726654052734, 5490.356206893921, PostgreSQL/Umbra
+PIPELINE+MODEL FIT, 214.08557891845703, 5704.441785812378, PostgreSQL/Umbra
+PIPELINE+MODEL SCORE, 39.25204277038574, 5743.693828582764, PostgreSQL/Umbra
+LOAD CSV 1, 82.97324180603027, 5826.667070388794, PostgreSQL/Umbra
+LOAD CSV 2, 72.2804069519043, 5898.947477340698, PostgreSQL/Umbra
+PROJECT TRAIN, 35.5076789855957, 5934.455156326294, PostgreSQL/Umbra
+PROJECT TEST, 31.085968017578125, 5965.541124343872, PostgreSQL/Umbra
+SELECT TRAIN 1, 54.6107292175293, 6020.151853561401, PostgreSQL/Umbra
+SELECT TRAIN 2, 42.85573959350586, 6063.007593154907, PostgreSQL/Umbra
+SELECT TRAIN 3, 42.333126068115234, 6105.3407192230225, PostgreSQL/Umbra
+SELECT TRAIN 4, 44.037580490112305, 6149.378299713135, PostgreSQL/Umbra
+REPLACE TRAIN, 38.5899543762207, 6187.9682540893555, PostgreSQL/Umbra
+REPLACE TEST, 30.97057342529297, 6218.938827514648, PostgreSQL/Umbra
+BINARIZE TRAIN, 12.375593185424805, 6231.314420700073, PostgreSQL/Umbra
+BINARIZE TEST, 10.392427444458008, 6241.706848144531, PostgreSQL/Umbra
+PIPELINE+MODEL FIT, 179.96644973754883, 6421.67329788208, PostgreSQL/Umbra
+PIPELINE+MODEL SCORE, 38.94495964050293, 6460.618257522583, PostgreSQL/Umbra
+LOAD CSV 1, 85.48855781555176, 6546.106815338135, PostgreSQL/Umbra
+LOAD CSV 2, 73.54211807250977, 6619.6489334106445, PostgreSQL/Umbra
+PROJECT TRAIN, 36.116600036621094, 6655.765533447266, PostgreSQL/Umbra
+PROJECT TEST, 31.56137466430664, 6687.326908111572, PostgreSQL/Umbra
+SELECT TRAIN 1, 53.82347106933594, 6741.150379180908, PostgreSQL/Umbra
+SELECT TRAIN 2, 46.204566955566406, 6787.354946136475, PostgreSQL/Umbra
+SELECT TRAIN 3, 48.653364181518555, 6836.008310317993, PostgreSQL/Umbra
+SELECT TRAIN 4, 59.220075607299805, 6895.228385925293, PostgreSQL/Umbra
+REPLACE TRAIN, 38.15484046936035, 6933.383226394653, PostgreSQL/Umbra
+REPLACE TEST, 30.0445556640625, 6963.427782058716, PostgreSQL/Umbra
+BINARIZE TRAIN, 18.61429214477539, 6982.042074203491, PostgreSQL/Umbra
+BINARIZE TEST, 10.735273361206055, 6992.777347564697, PostgreSQL/Umbra
+PIPELINE+MODEL FIT, 207.55362510681152, 7200.330972671509, PostgreSQL/Umbra
+PIPELINE+MODEL SCORE, 38.27953338623047, 7238.610506057739, PostgreSQL/Umbra
+COMPAS_TIMED, FULL, INSPECTION_TRAIN, 100, VIEW, MATERIALIZED, PostgreSQL, 844.559040666733, 767.1475649484983, 27.697428850860838, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_train.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_test.csv']
+
+###############################
+LOAD CSV 1, 86.5945816040039, 7325.205087661743, PostgreSQL/Umbra
+LOAD CSV 2, 70.46318054199219, 7395.668268203735, PostgreSQL/Umbra
+PROJECT TRAIN, 19.771575927734375, 7415.43984413147, PostgreSQL/Umbra
+PROJECT TEST, 18.821001052856445, 7434.260845184326, PostgreSQL/Umbra
+SELECT TRAIN 1, 47.02877998352051, 7481.289625167847, PostgreSQL/Umbra
+SELECT TRAIN 2, 43.84255409240723, 7525.132179260254, PostgreSQL/Umbra
+SELECT TRAIN 3, 40.30323028564453, 7565.435409545898, PostgreSQL/Umbra
+SELECT TRAIN 4, 41.03493690490723, 7606.470346450806, PostgreSQL/Umbra
+REPLACE TRAIN, 30.871152877807617, 7637.341499328613, PostgreSQL/Umbra
+REPLACE TEST, 22.939682006835938, 7660.281181335449, PostgreSQL/Umbra
+BINARIZE TRAIN, 15.900850296020508, 7676.18203163147, PostgreSQL/Umbra
+BINARIZE TEST, 11.492729187011719, 7687.674760818481, PostgreSQL/Umbra
+PIPELINE+MODEL FIT, 2342.6806926727295, 10030.355453491211, PostgreSQL/Umbra
+PIPELINE+MODEL SCORE, 80.04426956176758, 10110.399723052979, PostgreSQL/Umbra
+LOAD CSV 1, 69.8862075805664, 10180.285930633545, PostgreSQL/Umbra
+LOAD CSV 2, 56.2596321105957, 10236.54556274414, PostgreSQL/Umbra
+PROJECT TRAIN, 19.28234100341797, 10255.827903747559, PostgreSQL/Umbra
+PROJECT TEST, 19.015789031982422, 10274.843692779541, PostgreSQL/Umbra
+SELECT TRAIN 1, 37.08195686340332, 10311.925649642944, PostgreSQL/Umbra
+SELECT TRAIN 2, 37.66274452209473, 10349.588394165039, PostgreSQL/Umbra
+SELECT TRAIN 3, 37.677764892578125, 10387.266159057617, PostgreSQL/Umbra
+SELECT TRAIN 4, 39.52336311340332, 10426.78952217102, PostgreSQL/Umbra
+REPLACE TRAIN, 29.327869415283203, 10456.117391586304, PostgreSQL/Umbra
+REPLACE TEST, 23.02408218383789, 10479.141473770142, PostgreSQL/Umbra
+BINARIZE TRAIN, 14.96744155883789, 10494.10891532898, PostgreSQL/Umbra
+BINARIZE TEST, 10.571002960205078, 10504.679918289185, PostgreSQL/Umbra
+PIPELINE+MODEL FIT, 2216.8705463409424, 12721.550464630127, PostgreSQL/Umbra
+PIPELINE+MODEL SCORE, 79.32853698730469, 12800.879001617432, PostgreSQL/Umbra
+LOAD CSV 1, 79.38122749328613, 12880.260229110718, PostgreSQL/Umbra
+LOAD CSV 2, 65.0179386138916, 12945.27816772461, PostgreSQL/Umbra
+PROJECT TRAIN, 20.026206970214844, 12965.304374694824, PostgreSQL/Umbra
+PROJECT TEST, 13.844490051269531, 12979.148864746094, PostgreSQL/Umbra
+SELECT TRAIN 1, 37.92142868041992, 13017.070293426514, PostgreSQL/Umbra
+SELECT TRAIN 2, 30.562400817871094, 13047.632694244385, PostgreSQL/Umbra
+SELECT TRAIN 3, 35.46309471130371, 13083.095788955688, PostgreSQL/Umbra
+SELECT TRAIN 4, 34.29818153381348, 13117.393970489502, PostgreSQL/Umbra
+REPLACE TRAIN, 26.036500930786133, 13143.430471420288, PostgreSQL/Umbra
+REPLACE TEST, 21.96788787841797, 13165.398359298706, PostgreSQL/Umbra
+BINARIZE TRAIN, 11.387348175048828, 13176.785707473755, PostgreSQL/Umbra
+BINARIZE TEST, 11.211395263671875, 13187.997102737427, PostgreSQL/Umbra
+PIPELINE+MODEL FIT, 245.18203735351562, 13433.179140090942, PostgreSQL/Umbra
+PIPELINE+MODEL SCORE, 79.34021949768066, 13512.519359588623, PostgreSQL/Umbra
+COMPAS_TIMED, FULL, INSPECTION_TRAIN, 100, VIEW, NON-MATERIALIZED, PostgreSQL, 2167.453122666681, 955525.8827900059, 977.5100422962446, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_train.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_test.csv']
+
+###############################
+LOAD CSV 1, 187.78181076049805, 13700.301170349121, PostgreSQL/Umbra
+LOAD CSV 2, 95.9310531616211, 13796.232223510742, PostgreSQL/Umbra
+PROJECT TRAIN, 30.47943115234375, 13826.711654663086, PostgreSQL/Umbra
+PROJECT TEST, 21.571874618530273, 13848.283529281616, PostgreSQL/Umbra
+SELECT TRAIN 1, 51.27120018005371, 13899.55472946167, PostgreSQL/Umbra
+SELECT TRAIN 2, 33.34760665893555, 13932.902336120605, PostgreSQL/Umbra
+SELECT TRAIN 3, 34.58118438720703, 13967.483520507812, PostgreSQL/Umbra
+SELECT TRAIN 4, 43.85638236999512, 14011.339902877808, PostgreSQL/Umbra
+REPLACE TRAIN, 29.961347579956055, 14041.301250457764, PostgreSQL/Umbra
+REPLACE TEST, 19.81520652770996, 14061.116456985474, PostgreSQL/Umbra
+BINARIZE TRAIN, 13.704061508178711, 14074.820518493652, PostgreSQL/Umbra
+BINARIZE TEST, 9.638786315917969, 14084.45930480957, PostgreSQL/Umbra
+PIPELINE+MODEL FIT, 219.24948692321777, 14303.708791732788, PostgreSQL/Umbra
+PIPELINE+MODEL SCORE, 66.58792495727539, 14370.296716690063, PostgreSQL/Umbra
+LOAD CSV 1, 133.37373733520508, 14503.670454025269, PostgreSQL/Umbra
+LOAD CSV 2, 93.44625473022461, 14597.116708755493, PostgreSQL/Umbra
+PROJECT TRAIN, 15.582799911499023, 14612.699508666992, PostgreSQL/Umbra
+PROJECT TEST, 14.723777770996094, 14627.423286437988, PostgreSQL/Umbra
+SELECT TRAIN 1, 62.88003921508789, 14690.303325653076, PostgreSQL/Umbra
+SELECT TRAIN 2, 32.55438804626465, 14722.85771369934, PostgreSQL/Umbra
+SELECT TRAIN 3, 43.62130165100098, 14766.479015350342, PostgreSQL/Umbra
+SELECT TRAIN 4, 32.16361999511719, 14798.642635345459, PostgreSQL/Umbra
+REPLACE TRAIN, 28.789520263671875, 14827.43215560913, PostgreSQL/Umbra
+REPLACE TEST, 18.288612365722656, 14845.720767974854, PostgreSQL/Umbra
+BINARIZE TRAIN, 19.71268653869629, 14865.43345451355, PostgreSQL/Umbra
+BINARIZE TEST, 15.143871307373047, 14880.577325820923, PostgreSQL/Umbra
+PIPELINE+MODEL FIT, 207.35859870910645, 15087.93592453003, PostgreSQL/Umbra
+PIPELINE+MODEL SCORE, 98.02389144897461, 15185.959815979004, PostgreSQL/Umbra
+LOAD CSV 1, 135.56838035583496, 15321.528196334839, PostgreSQL/Umbra
+LOAD CSV 2, 94.03133392333984, 15415.559530258179, PostgreSQL/Umbra
+PROJECT TRAIN, 16.95728302001953, 15432.516813278198, PostgreSQL/Umbra
+PROJECT TEST, 14.57524299621582, 15447.092056274414, PostgreSQL/Umbra
+SELECT TRAIN 1, 52.50096321105957, 15499.593019485474, PostgreSQL/Umbra
+SELECT TRAIN 2, 30.1816463470459, 15529.77466583252, PostgreSQL/Umbra
+SELECT TRAIN 3, 28.01656723022461, 15557.791233062744, PostgreSQL/Umbra
+SELECT TRAIN 4, 31.260251998901367, 15589.051485061646, PostgreSQL/Umbra
+REPLACE TRAIN, 20.052194595336914, 15609.103679656982, PostgreSQL/Umbra
+REPLACE TEST, 23.345232009887695, 15632.44891166687, PostgreSQL/Umbra
+BINARIZE TRAIN, 23.079872131347656, 15655.528783798218, PostgreSQL/Umbra
+BINARIZE TEST, 10.692596435546875, 15666.221380233765, PostgreSQL/Umbra
+PIPELINE+MODEL FIT, 207.91172981262207, 15874.133110046387, PostgreSQL/Umbra
+PIPELINE+MODEL SCORE, 79.85901832580566, 15953.992128372192, PostgreSQL/Umbra
+COMPAS_TIMED, FULL, INSPECTION_TRAIN, 100, VIEW, NON-MATERIALIZED, Umbra, 901.3214559999293, 1138.6953270732836, 33.74455996265596, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_train.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_test.csv']
+
+###############################
+
+###############################
+COMPAS, FULL, INSPECTION_TRAIN, 100, VIEW, NON-MATERIALIZED, Pandas/Original, 1931.0765616664867, 892964.2808480269, 944.9678729184537, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_train.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_test.csv']
+
+###############################
+COMPAS, FULL, INSPECTION_TRAIN, 100, VIEW, MATERIALIZED, PostgreSQL, 789.4044430001182, 468.0251950655693, 21.63388996610571, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_train.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_test.csv']
+
+###############################
+COMPAS, FULL, INSPECTION_TRAIN, 100, VIEW, NON-MATERIALIZED, PostgreSQL, 799.3848093331811, 453.6509172357519, 21.29908254446073, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_train.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_test.csv']
+
+###############################
+COMPAS, FULL, INSPECTION_TRAIN, 100, VIEW, NON-MATERIALIZED, Umbra, 829.1680013333765, 74.77360768194814, 8.647173392614961, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_train.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_test.csv']
+
+###############################
+COMPAS, FULL, INSPECTION_TRAIN, 100, VIEW, NON-MATERIALIZED, Pandas/Original, 2079.33977833333, 1068045.667822017, 1033.462949419096, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_train.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_test.csv']
+
+###############################
+COMPAS, FULL, INSPECTION_TRAIN, 100, VIEW, MATERIALIZED, PostgreSQL, 856.3151136669754, 157.60096287579856, 12.55392221083907, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_train.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_test.csv']
+
+###############################
+COMPAS, FULL, INSPECTION_TRAIN, 100, VIEW, NON-MATERIALIZED, PostgreSQL, 1577.9211300000497, 866843.3586952589, 931.0442302572197, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_train.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_test.csv']
+
+###############################
+COMPAS, FULL, INSPECTION_TRAIN, 100, VIEW, NON-MATERIALIZED, Umbra, 877.6410953334258, 263.0938726177522, 16.22016869880681, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_train.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/compas/compas_test.csv']
+
+###############################
+HEALTHCARE, FULL, INSPECTION_TRAIN, 100, CTE, NON-MATERIALIZED, Pandas/Original, 3955.4008733333226, 594429.7036194177, 770.992674167153, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/healthcare/histories.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/healthcare/patients.csv']
+
+###############################
+HEALTHCARE, FULL, INSPECTION_TRAIN, 100, CTE, NON-MATERIALIZED, PostgreSQL, 3576.002003000061, 6469.457807026122, 80.4329398134006, ['/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/healthcare/histories.csv'; '/home/luca/Documents/BA_saved/For_Publication/max_repo/mlinspect4sql/test/monkeypatchingSQL/pipelines_for_tests/healthcare/patients.csv']
+
+###############################
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, Pandas/Original, 68.82827766670137, 69.98547236551104, 8.365732028072083, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/my_repo/mlinspect/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/my_repo/mlinspect/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, Pandas/Original, (67.98557200030093, 75.44103574899403, 8.68567992439245), [PosixPath('/home/luca/Documents/BA_saved/For_Publication/my_repo/mlinspect/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/my_repo/mlinspect/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+HEALTHCARE, ONLY_PANDAS, PURE_RUN, 100, CTE, NON-MATERIALIZED, PostgreSQL, 2.9605229695638022, [PosixPath('/home/luca/Documents/BA_saved/For_Publication/my_repo/mlinspect/example_to_sql/data_generation/generated_csv/healthcare_histories_generated_100.csv'); PosixPath('/home/luca/Documents/BA_saved/For_Publication/my_repo/mlinspect/example_to_sql/data_generation/generated_csv/healthcare_patients_generated_100.csv')]
+
+###############################
+patients = pd.read_csv .. & histories = pd.read_csv .., 42.62137413024902, 42.62137413024902, UNKNOWN
+data = patients.merge .. , 22.5372314453125, 65.15860557556152, UNKNOWN
+complications = data.groupby .. , 10.020256042480469, 75.17886161804199, UNKNOWN
+data = data.merge(complications .. , 20.032882690429688, 95.21174430847168, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 20.546436309814453, 115.75818061828613, UNKNOWN
+data = data[['smoker', 'las .. , 21.53801918029785, 137.29619979858398, UNKNOWN
+train_test_split .. , 19.529104232788086, 156.82530403137207, UNKNOWN
+train_test_split .. , 797.0988750457764, 953.9241790771484, UNKNOWN
+train_test_split .. , 91.23086929321289, 1045.1550483703613, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 15.578508377075195, 15.578508377075195, UNKNOWN
+data = patients.merge .. , 24.054765701293945, 39.63327407836914, UNKNOWN
+complications = data.groupby .. , 4.505634307861328, 44.13890838623047, UNKNOWN
+data = data.merge(complications .. , 18.05901527404785, 62.19792366027832, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 23.55051040649414, 85.74843406677246, UNKNOWN
+data = data[['smoker', 'las .. , 99.25723075866699, 185.00566482543945, UNKNOWN
+train_test_split .. , 16.564369201660156, 201.5700340270996, UNKNOWN
+train_test_split .. , 720.130443572998, 921.7004776000977, UNKNOWN
+train_test_split .. , 94.34700012207031, 1016.047477722168, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 17.54164695739746, 17.54164695739746, UNKNOWN
+data = patients.merge .. , 20.033597946166992, 37.57524490356445, UNKNOWN
+complications = data.groupby .. , 8.004426956176758, 45.57967185974121, UNKNOWN
+data = data.merge(complications .. , 16.52669906616211, 62.10637092590332, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 20.04265785217285, 82.14902877807617, UNKNOWN
+data = data[['smoker', 'las .. , 95.85261344909668, 178.00164222717285, UNKNOWN
+train_test_split .. , 11.623144149780273, 189.62478637695312, UNKNOWN
+train_test_split .. , 707.9353332519531, 897.5601196289062, UNKNOWN
+train_test_split .. , 101.69649124145508, 999.2566108703613, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 15.614748001098633, 15.614748001098633, UNKNOWN
+data = patients.merge .. , 20.586490631103516, 36.20123863220215, UNKNOWN
+complications = data.groupby .. , 7.520437240600586, 43.721675872802734, UNKNOWN
+data = data.merge(complications .. , 16.54958724975586, 60.271263122558594, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 19.57225799560547, 79.84352111816406, UNKNOWN
+data = data[['smoker', 'las .. , 94.7275161743164, 174.57103729248047, UNKNOWN
+train_test_split .. , 15.030622482299805, 189.60165977478027, UNKNOWN
+train_test_split .. , 684.9703788757324, 874.5720386505127, UNKNOWN
+train_test_split .. , 93.45626831054688, 968.0283069610596, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 36.627769470214844, 1004.6560764312744, UNKNOWN
+data = patients.merge .. , 20.598888397216797, 1025.2549648284912, UNKNOWN
+complications = data.groupby .. , 15.021085739135742, 1040.276050567627, UNKNOWN
+data = data.merge(complications .. , 20.077228546142578, 1060.3532791137695, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 22.057294845581055, 1082.4105739593506, UNKNOWN
+data = data[['smoker', 'las .. , 24.038076400756836, 1106.4486503601074, UNKNOWN
+train_test_split .. , 32.53364562988281, 1138.9822959899902, UNKNOWN
+train_test_split .. , 661.1378192901611, 1800.1201152801514, UNKNOWN
+train_test_split .. , 91.70866012573242, 1891.8287754058838, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 18.030643463134766, 18.030643463134766, UNKNOWN
+data = patients.merge .. , 17.543792724609375, 35.57443618774414, UNKNOWN
+complications = data.groupby .. , 5.010128021240234, 40.584564208984375, UNKNOWN
+data = data.merge(complications .. , 15.074014663696289, 55.658578872680664, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 17.600297927856445, 73.25887680053711, UNKNOWN
+data = data[['smoker', 'las .. , 94.12169456481934, 167.38057136535645, UNKNOWN
+train_test_split .. , 11.528730392456055, 178.9093017578125, UNKNOWN
+train_test_split .. , 739.8319244384766, 918.7412261962891, UNKNOWN
+train_test_split .. , 107.50365257263184, 1026.244878768921, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 40.135860443115234, 1066.3807392120361, UNKNOWN
+data = patients.merge .. , 29.704809188842773, 1096.085548400879, UNKNOWN
+complications = data.groupby .. , 13.544559478759766, 1109.6301078796387, UNKNOWN
+data = data.merge(complications .. , 20.56574821472168, 1130.1958560943604, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 27.10103988647461, 1157.296895980835, UNKNOWN
+data = data[['smoker', 'las .. , 25.09760856628418, 1182.3945045471191, UNKNOWN
+train_test_split .. , 29.111146926879883, 1211.505651473999, UNKNOWN
+train_test_split .. , 690.131425857544, 1901.637077331543, UNKNOWN
+train_test_split .. , 99.92575645446777, 2001.5628337860107, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 10.52236557006836, 10.52236557006836, UNKNOWN
+data = patients.merge .. , 10.51020622253418, 21.03257179260254, UNKNOWN
+complications = data.groupby .. , 8.505821228027344, 29.538393020629883, UNKNOWN
+data = data.merge(complications .. , 1.5130043029785156, 31.0513973236084, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 0.0, 31.0513973236084, UNKNOWN
+data = data[['smoker', 'las .. , 10.01429557800293, 41.06569290161133, UNKNOWN
+train_test_split .. , 0.0, 41.06569290161133, UNKNOWN
+train_test_split .. , 745.0892925262451, 786.1549854278564, UNKNOWN
+train_test_split .. , 91.4154052734375, 877.570390701294, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 53.65324020385742, 931.2236309051514, UNKNOWN
+data = patients.merge .. , 10.509252548217773, 941.7328834533691, UNKNOWN
+complications = data.groupby .. , 6.510734558105469, 948.2436180114746, UNKNOWN
+data = data.merge(complications .. , 3.5071372985839844, 951.7507553100586, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 11.516809463500977, 963.2675647735596, UNKNOWN
+data = data[['smoker', 'las .. , 9.009599685668945, 972.2771644592285, UNKNOWN
+train_test_split .. , 10.019302368164062, 982.2964668273926, UNKNOWN
+train_test_split .. , 597.9557037353516, 1580.2521705627441, UNKNOWN
+train_test_split .. , 103.15179824829102, 1683.4039688110352, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 10.024309158325195, 1693.4282779693604, UNKNOWN
+data = patients.merge .. , 0.0, 1693.4282779693604, UNKNOWN
+complications = data.groupby .. , 5.005121231079102, 1698.4333992004395, UNKNOWN
+data = data.merge(complications .. , 5.0048828125, 1703.4382820129395, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 5.506753921508789, 1708.9450359344482, UNKNOWN
+data = data[['smoker', 'las .. , 4.525661468505859, 1713.470697402954, UNKNOWN
+train_test_split .. , 0.0, 1713.470697402954, UNKNOWN
+train_test_split .. , 599.6806621551514, 2313.1513595581055, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 5.589962005615234, 5.589962005615234, UNKNOWN
+data = patients.merge .. , 6.58726692199707, 12.177228927612305, UNKNOWN
+complications = data.groupby .. , 0.0, 12.177228927612305, UNKNOWN
+data = data.merge(complications .. , 5.048513412475586, 17.22574234008789, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 0.0, 17.22574234008789, UNKNOWN
+data = data[['smoker', 'las .. , 11.022806167602539, 28.24854850769043, UNKNOWN
+train_test_split .. , 0.0, 28.24854850769043, UNKNOWN
+train_test_split .. , 721.1203575134277, 749.3689060211182, UNKNOWN
+train_test_split .. , 92.35978126525879, 841.728687286377, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 29.09684181213379, 870.8255290985107, UNKNOWN
+data = patients.merge .. , 3.0050277709960938, 873.8305568695068, UNKNOWN
+complications = data.groupby .. , 7.00688362121582, 880.8374404907227, UNKNOWN
+data = data.merge(complications .. , 7.505655288696289, 888.343095779419, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 10.50877571105957, 898.8518714904785, UNKNOWN
+data = data[['smoker', 'las .. , 10.01119613647461, 908.8630676269531, UNKNOWN
+train_test_split .. , 7.50422477722168, 916.3672924041748, UNKNOWN
+train_test_split .. , 624.8087882995605, 1541.1760807037354, UNKNOWN
+train_test_split .. , 99.1067886352539, 1640.2828693389893, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 0.5025863647460938, 0.5025863647460938, UNKNOWN
+data = patients.merge .. , 10.02645492553711, 10.529041290283203, UNKNOWN
+complications = data.groupby .. , 4.504203796386719, 15.033245086669922, UNKNOWN
+data = data.merge(complications .. , 5.587339401245117, 20.62058448791504, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 4.508018493652344, 25.128602981567383, UNKNOWN
+data = data[['smoker', 'las .. , 7.018566131591797, 32.14716911315918, UNKNOWN
+train_test_split .. , 5.007743835449219, 37.1549129486084, UNKNOWN
+train_test_split .. , 697.5984573364258, 734.7533702850342, UNKNOWN
+train_test_split .. , 92.64397621154785, 827.397346496582, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 32.073259353637695, 859.4706058502197, UNKNOWN
+data = patients.merge .. , 0.0, 859.4706058502197, UNKNOWN
+complications = data.groupby .. , 11.51418685913086, 870.9847927093506, UNKNOWN
+data = data.merge(complications .. , 0.0, 870.9847927093506, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 16.011953353881836, 886.9967460632324, UNKNOWN
+data = data[['smoker', 'las .. , 3.0078887939453125, 890.0046348571777, UNKNOWN
+train_test_split .. , 4.509925842285156, 894.5145606994629, UNKNOWN
+train_test_split .. , 607.2254180908203, 1501.7399787902832, UNKNOWN
+train_test_split .. , 99.63488578796387, 1601.374864578247, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 7.052183151245117, 7.052183151245117, UNKNOWN
+data = patients.merge .. , 3.002643585205078, 10.054826736450195, UNKNOWN
+complications = data.groupby .. , 13.08894157409668, 23.143768310546875, UNKNOWN
+data = data.merge(complications .. , 0.0, 23.143768310546875, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 0.0, 23.143768310546875, UNKNOWN
+data = data[['smoker', 'las .. , 9.045839309692383, 32.18960762023926, UNKNOWN
+train_test_split .. , 3.537893295288086, 35.727500915527344, UNKNOWN
+train_test_split .. , 727.6928424835205, 763.4203433990479, UNKNOWN
+train_test_split .. , 86.59744262695312, 850.017786026001, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 26.72433853149414, 876.7421245574951, UNKNOWN
+data = patients.merge .. , 8.511543273925781, 885.2536678314209, UNKNOWN
+complications = data.groupby .. , 5.503416061401367, 890.7570838928223, UNKNOWN
+data = data.merge(complications .. , 5.042552947998047, 895.7996368408203, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 13.06605339050293, 908.8656902313232, UNKNOWN
+data = data[['smoker', 'las .. , 7.506847381591797, 916.372537612915, UNKNOWN
+train_test_split .. , 5.506038665771484, 921.8785762786865, UNKNOWN
+train_test_split .. , 643.4307098388672, 1565.3092861175537, UNKNOWN
+train_test_split .. , 105.11207580566406, 1670.4213619232178, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 7.5817108154296875, 7.5817108154296875, UNKNOWN
+data = patients.merge .. , 0.0, 7.5817108154296875, UNKNOWN
+complications = data.groupby .. , 8.156299591064453, 15.73801040649414, UNKNOWN
+data = data.merge(complications .. , 8.111715316772461, 23.8497257232666, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 8.101463317871094, 31.951189041137695, UNKNOWN
+data = data[['smoker', 'las .. , 0.0, 31.951189041137695, UNKNOWN
+train_test_split .. , 7.905244827270508, 39.8564338684082, UNKNOWN
+train_test_split .. , 683.3069324493408, 723.163366317749, UNKNOWN
+train_test_split .. , 89.0045166015625, 812.1678829193115, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 21.67487144470215, 833.8427543640137, UNKNOWN
+data = patients.merge .. , 9.005546569824219, 842.8483009338379, UNKNOWN
+complications = data.groupby .. , 7.011890411376953, 849.8601913452148, UNKNOWN
+data = data.merge(complications .. , 3.0024051666259766, 852.8625965118408, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 10.930776596069336, 863.7933731079102, UNKNOWN
+data = data[['smoker', 'las .. , 10.572433471679688, 874.3658065795898, UNKNOWN
+train_test_split .. , 9.005069732666016, 883.3708763122559, UNKNOWN
+train_test_split .. , 600.6724834442139, 1484.0433597564697, UNKNOWN
+train_test_split .. , 101.87983512878418, 1585.923194885254, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 3.505706787109375, 3.505706787109375, UNKNOWN
+data = patients.merge .. , 10.009765625, 13.515472412109375, UNKNOWN
+complications = data.groupby .. , 10.510921478271484, 24.02639389038086, UNKNOWN
+data = data.merge(complications .. , 2.503633499145508, 26.530027389526367, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 8.506059646606445, 35.03608703613281, UNKNOWN
+data = data[['smoker', 'las .. , 3.0121803283691406, 38.04826736450195, UNKNOWN
+train_test_split .. , 0.0, 38.04826736450195, UNKNOWN
+train_test_split .. , 681.189775466919, 719.2380428314209, UNKNOWN
+train_test_split .. , 87.80384063720703, 807.0418834686279, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 31.785011291503906, 838.8268947601318, UNKNOWN
+data = patients.merge .. , 5.039691925048828, 843.8665866851807, UNKNOWN
+complications = data.groupby .. , 4.050493240356445, 847.9170799255371, UNKNOWN
+data = data.merge(complications .. , 6.042718887329102, 853.9597988128662, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 10.60175895690918, 864.5615577697754, UNKNOWN
+data = data[['smoker', 'las .. , 10.093212127685547, 874.6547698974609, UNKNOWN
+train_test_split .. , 7.56072998046875, 882.2154998779297, UNKNOWN
+train_test_split .. , 601.5379428863525, 1483.7534427642822, UNKNOWN
+train_test_split .. , 101.42040252685547, 1585.1738452911377, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 9.007692337036133, 9.007692337036133, UNKNOWN
+data = patients.merge .. , 9.010076522827148, 18.01776885986328, UNKNOWN
+complications = data.groupby .. , 10.094165802001953, 28.111934661865234, UNKNOWN
+data = data.merge(complications .. , 6.001710891723633, 34.11364555358887, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 0.0, 34.11364555358887, UNKNOWN
+data = data[['smoker', 'las .. , 10.517358779907227, 44.631004333496094, UNKNOWN
+train_test_split .. , 0.0, 44.631004333496094, UNKNOWN
+train_test_split .. , 690.1750564575195, 734.8060607910156, UNKNOWN
+train_test_split .. , 92.0705795288086, 826.8766403198242, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 31.589031219482422, 858.4656715393066, UNKNOWN
+data = patients.merge .. , 4.508018493652344, 862.973690032959, UNKNOWN
+complications = data.groupby .. , 5.516767501831055, 868.49045753479, UNKNOWN
+data = data.merge(complications .. , 4.511356353759766, 873.0018138885498, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 11.518001556396484, 884.5198154449463, UNKNOWN
+data = data[['smoker', 'las .. , 9.010553359985352, 893.5303688049316, UNKNOWN
+train_test_split .. , 10.015249252319336, 903.545618057251, UNKNOWN
+train_test_split .. , 605.5605411529541, 1509.106159210205, UNKNOWN
+train_test_split .. , 97.84531593322754, 1606.9514751434326, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 6.043434143066406, 6.043434143066406, UNKNOWN
+data = patients.merge .. , 4.50444221496582, 10.547876358032227, UNKNOWN
+complications = data.groupby .. , 5.012750625610352, 15.560626983642578, UNKNOWN
+data = data.merge(complications .. , 3.5178661346435547, 19.078493118286133, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 6.084442138671875, 25.162935256958008, UNKNOWN
+data = data[['smoker', 'las .. , 0.0, 25.162935256958008, UNKNOWN
+train_test_split .. , 3.0105113983154297, 28.173446655273438, UNKNOWN
+train_test_split .. , 696.6490745544434, 724.8225212097168, UNKNOWN
+train_test_split .. , 92.86665916442871, 817.6891803741455, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 27.988433837890625, 845.6776142120361, UNKNOWN
+data = patients.merge .. , 4.016637802124023, 849.6942520141602, UNKNOWN
+complications = data.groupby .. , 8.504629135131836, 858.198881149292, UNKNOWN
+data = data.merge(complications .. , 4.002094268798828, 862.2009754180908, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 12.01939582824707, 874.2203712463379, UNKNOWN
+data = data[['smoker', 'las .. , 8.504629135131836, 882.7250003814697, UNKNOWN
+train_test_split .. , 4.021167755126953, 886.7461681365967, UNKNOWN
+train_test_split .. , 594.4178104400635, 1481.1639785766602, UNKNOWN
+train_test_split .. , 97.41783142089844, 1578.5818099975586, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 8.026123046875, 8.026123046875, UNKNOWN
+data = patients.merge .. , 2.004384994506836, 10.030508041381836, UNKNOWN
+complications = data.groupby .. , 0.0, 10.030508041381836, UNKNOWN
+data = data.merge(complications .. , 10.051727294921875, 20.08223533630371, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 0.0, 20.08223533630371, UNKNOWN
+data = data[['smoker', 'las .. , 4.044294357299805, 24.126529693603516, UNKNOWN
+train_test_split .. , 6.035804748535156, 30.162334442138672, UNKNOWN
+train_test_split .. , 714.7212028503418, 744.8835372924805, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 8.544921875, 8.544921875, UNKNOWN
+data = patients.merge .. , 4.502773284912109, 13.04769515991211, UNKNOWN
+complications = data.groupby .. , 5.509138107299805, 18.556833267211914, UNKNOWN
+data = data.merge(complications .. , 5.007505416870117, 23.56433868408203, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 0.0, 23.56433868408203, UNKNOWN
+data = data[['smoker', 'las .. , 0.0, 23.56433868408203, UNKNOWN
+train_test_split .. , 0.0, 23.56433868408203, UNKNOWN
+train_test_split .. , 667.7980422973633, 691.3623809814453, UNKNOWN
+train_test_split .. , 93.64485740661621, 785.0072383880615, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 30.67803382873535, 815.6852722167969, UNKNOWN
+data = patients.merge .. , 0.0, 815.6852722167969, UNKNOWN
+complications = data.groupby .. , 10.52999496459961, 826.2152671813965, UNKNOWN
+data = data.merge(complications .. , 8.009910583496094, 834.2251777648926, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 10.059118270874023, 844.2842960357666, UNKNOWN
+data = data[['smoker', 'las .. , 10.091543197631836, 854.3758392333984, UNKNOWN
+train_test_split .. , 0.0, 854.3758392333984, UNKNOWN
+train_test_split .. , 646.9211578369141, 1501.2969970703125, UNKNOWN
+train_test_split .. , 103.01542282104492, 1604.3124198913574, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 6.006002426147461, 6.006002426147461, UNKNOWN
+data = patients.merge .. , 3.9997100830078125, 10.005712509155273, UNKNOWN
+complications = data.groupby .. , 5.579471588134766, 15.585184097290039, UNKNOWN
+data = data.merge(complications .. , 4.000186920166016, 19.585371017456055, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 3.0372142791748047, 22.62258529663086, UNKNOWN
+data = data[['smoker', 'las .. , 3.464937210083008, 26.087522506713867, UNKNOWN
+train_test_split .. , 5.999565124511719, 32.087087631225586, UNKNOWN
+train_test_split .. , 690.3436183929443, 722.4307060241699, UNKNOWN
+train_test_split .. , 88.81568908691406, 811.246395111084, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 29.15501594543457, 840.4014110565186, UNKNOWN
+data = patients.merge .. , 5.504369735717773, 845.9057807922363, UNKNOWN
+complications = data.groupby .. , 5.504608154296875, 851.4103889465332, UNKNOWN
+data = data.merge(complications .. , 4.3506622314453125, 855.7610511779785, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 9.008646011352539, 864.769697189331, UNKNOWN
+data = data[['smoker', 'las .. , 9.008407592773438, 873.7781047821045, UNKNOWN
+train_test_split .. , 7.007837295532227, 880.7859420776367, UNKNOWN
+train_test_split .. , 597.0966815948486, 1477.8826236724854, UNKNOWN
+train_test_split .. , 97.53799438476562, 1575.420618057251, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 2.50244140625, 2.50244140625, UNKNOWN
+data = patients.merge .. , 10.012149810791016, 12.514591217041016, UNKNOWN
+complications = data.groupby .. , 6.509065628051758, 19.023656845092773, UNKNOWN
+data = data.merge(complications .. , 2.009153366088867, 21.03281021118164, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 8.505821228027344, 29.538631439208984, UNKNOWN
+data = data[['smoker', 'las .. , 7.024526596069336, 36.56315803527832, UNKNOWN
+train_test_split .. , 0.0, 36.56315803527832, UNKNOWN
+train_test_split .. , 695.366382598877, 731.9295406341553, UNKNOWN
+train_test_split .. , 92.2849178314209, 824.2144584655762, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 36.263227462768555, 860.4776859283447, UNKNOWN
+data = patients.merge .. , 0.0, 860.4776859283447, UNKNOWN
+complications = data.groupby .. , 11.01231575012207, 871.4900016784668, UNKNOWN
+data = data.merge(complications .. , 9.003639221191406, 880.4936408996582, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 10.032892227172852, 890.526533126831, UNKNOWN
+data = data[['smoker', 'las .. , 13.036727905273438, 903.5632610321045, UNKNOWN
+train_test_split .. , 7.511615753173828, 911.0748767852783, UNKNOWN
+train_test_split .. , 612.8451824188232, 1523.9200592041016, UNKNOWN
+train_test_split .. , 106.84895515441895, 1630.7690143585205, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 10.015726089477539, 10.015726089477539, UNKNOWN
+data = patients.merge .. , 7.507801055908203, 17.523527145385742, UNKNOWN
+complications = data.groupby .. , 7.505893707275391, 25.029420852661133, UNKNOWN
+data = data.merge(complications .. , 7.524013519287109, 32.55343437194824, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 7.00831413269043, 39.56174850463867, UNKNOWN
+data = data[['smoker', 'las .. , 3.0066967010498047, 42.56844520568848, UNKNOWN
+train_test_split .. , 7.0037841796875, 49.57222938537598, UNKNOWN
+train_test_split .. , 726.1483669281006, 775.7205963134766, UNKNOWN
+train_test_split .. , 92.1931266784668, 867.9137229919434, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 26.03006362915039, 893.9437866210938, UNKNOWN
+data = patients.merge .. , 5.551815032958984, 899.4956016540527, UNKNOWN
+complications = data.groupby .. , 9.508132934570312, 909.003734588623, UNKNOWN
+data = data.merge(complications .. , 3.550291061401367, 912.5540256500244, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 10.02192497253418, 922.5759506225586, UNKNOWN
+data = data[['smoker', 'las .. , 16.059398651123047, 938.6353492736816, UNKNOWN
+train_test_split .. , 10.017156600952148, 948.6525058746338, UNKNOWN
+train_test_split .. , 646.6622352600098, 1595.3147411346436, UNKNOWN
+train_test_split .. , 103.36565971374512, 1698.6804008483887, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 6.502389907836914, 6.502389907836914, UNKNOWN
+data = patients.merge .. , 4.00543212890625, 10.507822036743164, UNKNOWN
+complications = data.groupby .. , 4.043340682983398, 14.551162719726562, UNKNOWN
+data = data.merge(complications .. , 0.0, 14.551162719726562, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 0.0, 14.551162719726562, UNKNOWN
+data = data[['smoker', 'las .. , 7.543325424194336, 22.0944881439209, UNKNOWN
+train_test_split .. , 0.0, 22.0944881439209, UNKNOWN
+train_test_split .. , 677.4659156799316, 699.5604038238525, UNKNOWN
+train_test_split .. , 87.12029457092285, 786.6806983947754, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 32.097578048706055, 818.7782764434814, UNKNOWN
+data = patients.merge .. , 6.507635116577148, 825.2859115600586, UNKNOWN
+complications = data.groupby .. , 0.0, 825.2859115600586, UNKNOWN
+data = data.merge(complications .. , 4.507780075073242, 829.7936916351318, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 5.50532341003418, 835.299015045166, UNKNOWN
+data = data[['smoker', 'las .. , 10.202884674072266, 845.5018997192383, UNKNOWN
+train_test_split .. , 10.507345199584961, 856.0092449188232, UNKNOWN
+train_test_split .. , 616.666316986084, 1472.6755619049072, UNKNOWN
+train_test_split .. , 112.00833320617676, 1584.683895111084, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 0.0, 0.0, UNKNOWN
+data = patients.merge .. , 10.086297988891602, 10.086297988891602, UNKNOWN
+complications = data.groupby .. , 8.507251739501953, 18.593549728393555, UNKNOWN
+data = data.merge(complications .. , 10.514259338378906, 29.10780906677246, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 13.020992279052734, 42.128801345825195, UNKNOWN
+data = data[['smoker', 'las .. , 6.003141403198242, 48.13194274902344, UNKNOWN
+train_test_split .. , 0.0, 48.13194274902344, UNKNOWN
+train_test_split .. , 677.3402690887451, 725.4722118377686, UNKNOWN
+train_test_split .. , 92.14377403259277, 817.6159858703613, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 36.12041473388672, 853.736400604248, UNKNOWN
+data = patients.merge .. , 4.006385803222656, 857.7427864074707, UNKNOWN
+complications = data.groupby .. , 6.004810333251953, 863.7475967407227, UNKNOWN
+data = data.merge(complications .. , 4.007577896118164, 867.7551746368408, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 6.005525588989258, 873.7607002258301, UNKNOWN
+data = data[['smoker', 'las .. , 10.01882553100586, 883.7795257568359, UNKNOWN
+train_test_split .. , 10.007858276367188, 893.7873840332031, UNKNOWN
+train_test_split .. , 651.5185832977295, 1545.3059673309326, UNKNOWN
+train_test_split .. , 100.19469261169434, 1645.500659942627, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 8.008241653442383, 8.008241653442383, UNKNOWN
+data = patients.merge .. , 4.518985748291016, 12.527227401733398, UNKNOWN
+complications = data.groupby .. , 4.544734954833984, 17.071962356567383, UNKNOWN
+data = data.merge(complications .. , 4.506587982177734, 21.578550338745117, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 6.597042083740234, 28.17559242248535, UNKNOWN
+data = data[['smoker', 'las .. , 3.503561019897461, 31.679153442382812, UNKNOWN
+train_test_split .. , 4.040241241455078, 35.71939468383789, UNKNOWN
+train_test_split .. , 669.517993927002, 705.2373886108398, UNKNOWN
+train_test_split .. , 87.86129951477051, 793.0986881256104, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 27.530670166015625, 820.629358291626, UNKNOWN
+data = patients.merge .. , 4.008054733276367, 824.6374130249023, UNKNOWN
+complications = data.groupby .. , 8.022069931030273, 832.6594829559326, UNKNOWN
+data = data.merge(complications .. , 4.502296447753906, 837.1617794036865, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 10.012626647949219, 847.1744060516357, UNKNOWN
+data = data[['smoker', 'las .. , 10.052919387817383, 857.2273254394531, UNKNOWN
+train_test_split .. , 10.510444641113281, 867.7377700805664, UNKNOWN
+train_test_split .. , 662.355899810791, 1530.0936698913574, UNKNOWN
+train_test_split .. , 98.98519515991211, 1629.0788650512695, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 8.023262023925781, 1637.1021270751953, UNKNOWN
+data = patients.merge .. , 4.013776779174805, 1641.1159038543701, UNKNOWN
+complications = data.groupby .. , 7.511138916015625, 1648.6270427703857, UNKNOWN
+data = data.merge(complications .. , 3.5104751586914062, 1652.1375179290771, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 5.022525787353516, 1657.1600437164307, UNKNOWN
+data = data[['smoker', 'las .. , 4.016399383544922, 1661.1764430999756, UNKNOWN
+train_test_split .. , 6.019353866577148, 1667.1957969665527, UNKNOWN
+train_test_split .. , 601.7463207244873, 2268.94211769104, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 7.003068923950195, 7.003068923950195, UNKNOWN
+data = patients.merge .. , 4.009246826171875, 11.01231575012207, UNKNOWN
+complications = data.groupby .. , 3.0193328857421875, 14.031648635864258, UNKNOWN
+data = data.merge(complications .. , 4.009485244750977, 18.041133880615234, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 5.513429641723633, 23.554563522338867, UNKNOWN
+data = data[['smoker', 'las .. , 5.007743835449219, 28.562307357788086, UNKNOWN
+train_test_split .. , 4.00233268737793, 32.564640045166016, UNKNOWN
+train_test_split .. , 684.288501739502, 716.853141784668, UNKNOWN
+train_test_split .. , 91.97688102722168, 808.8300228118896, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 28.067588806152344, 836.897611618042, UNKNOWN
+data = patients.merge .. , 5.003690719604492, 841.9013023376465, UNKNOWN
+complications = data.groupby .. , 6.530284881591797, 848.4315872192383, UNKNOWN
+data = data.merge(complications .. , 0.0, 848.4315872192383, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 7.515907287597656, 855.9474945068359, UNKNOWN
+data = data[['smoker', 'las .. , 8.54802131652832, 864.4955158233643, UNKNOWN
+train_test_split .. , 6.011486053466797, 870.507001876831, UNKNOWN
+train_test_split .. , 612.8659248352051, 1483.3729267120361, UNKNOWN
+train_test_split .. , 87.34631538391113, 1570.7192420959473, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 25.311708450317383, 25.311708450317383, UNKNOWN
+data = patients.merge .. , 11.049985885620117, 36.3616943359375, UNKNOWN
+complications = data.groupby .. , 10.023832321166992, 46.38552665710449, UNKNOWN
+data = data.merge(complications .. , 4.010915756225586, 50.39644241333008, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 3.519773483276367, 53.916215896606445, UNKNOWN
+data = data[['smoker', 'las .. , 1.5189647674560547, 55.4351806640625, UNKNOWN
+train_test_split .. , 1.5177726745605469, 56.95295333862305, UNKNOWN
+train_test_split .. , 939.9666786193848, 996.9196319580078, UNKNOWN
+train_test_split .. , 100.01969337463379, 1096.9393253326416, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 89.3545150756836, 1186.2938404083252, UNKNOWN
+data = patients.merge .. , 2.511262893676758, 1188.805103302002, UNKNOWN
+complications = data.groupby .. , 10.057449340820312, 1198.8625526428223, UNKNOWN
+data = data.merge(complications .. , 4.528999328613281, 1203.3915519714355, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 5.537748336791992, 1208.9293003082275, UNKNOWN
+data = data[['smoker', 'las .. , 12.579202651977539, 1221.508502960205, UNKNOWN
+train_test_split .. , 2.512216567993164, 1224.0207195281982, UNKNOWN
+train_test_split .. , 757.6448917388916, 1981.6656112670898, UNKNOWN
+train_test_split .. , 105.00884056091309, 2086.674451828003, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 9.780645370483398, 9.780645370483398, UNKNOWN
+data = patients.merge .. , 6.0176849365234375, 15.798330307006836, UNKNOWN
+complications = data.groupby .. , 14.010906219482422, 29.809236526489258, UNKNOWN
+data = data.merge(complications .. , 4.122018814086914, 33.93125534057617, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 5.09333610534668, 39.02459144592285, UNKNOWN
+data = data[['smoker', 'las .. , 4.554271697998047, 43.5788631439209, UNKNOWN
+train_test_split .. , 4.021406173706055, 47.60026931762695, UNKNOWN
+train_test_split .. , 939.9704933166504, 987.5707626342773, UNKNOWN
+train_test_split .. , 104.67410087585449, 1092.2448635101318, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 27.554750442504883, 1119.7996139526367, UNKNOWN
+data = patients.merge .. , 4.997730255126953, 1124.7973442077637, UNKNOWN
+complications = data.groupby .. , 5.530595779418945, 1130.3279399871826, UNKNOWN
+data = data.merge(complications .. , 3.9968490600585938, 1134.3247890472412, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 8.545637130737305, 1142.8704261779785, UNKNOWN
+data = data[['smoker', 'las .. , 9.556055068969727, 1152.4264812469482, UNKNOWN
+train_test_split .. , 6.0291290283203125, 1158.4556102752686, UNKNOWN
+train_test_split .. , 731.0092449188232, 1889.4648551940918, UNKNOWN
+train_test_split .. , 100.25930404663086, 1989.7241592407227, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 3.5076141357421875, 1993.2317733764648, UNKNOWN
+data = patients.merge .. , 4.5833587646484375, 1997.8151321411133, UNKNOWN
+complications = data.groupby .. , 4.029750823974609, 2001.844882965088, UNKNOWN
+data = data.merge(complications .. , 4.5146942138671875, 2006.359577178955, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 5.51295280456543, 2011.8725299835205, UNKNOWN
+data = data[['smoker', 'las .. , 4.540205001831055, 2016.4127349853516, UNKNOWN
+train_test_split .. , 3.5059452056884766, 2019.91868019104, UNKNOWN
+train_test_split .. , 659.8505973815918, 2679.769277572632, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 7.011175155639648, 7.011175155639648, UNKNOWN
+data = patients.merge .. , 4.019975662231445, 11.031150817871094, UNKNOWN
+complications = data.groupby .. , 7.020235061645508, 18.0513858795166, UNKNOWN
+data = data.merge(complications .. , 3.0052661895751953, 21.056652069091797, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 4.004001617431641, 25.060653686523438, UNKNOWN
+data = data[['smoker', 'las .. , 3.5009384155273438, 28.56159210205078, UNKNOWN
+train_test_split .. , 3.0031204223632812, 31.564712524414062, UNKNOWN
+train_test_split .. , 861.039400100708, 892.6041126251221, UNKNOWN
+train_test_split .. , 106.4291000366211, 999.0332126617432, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 31.5706729888916, 1030.6038856506348, UNKNOWN
+data = patients.merge .. , 5.007743835449219, 1035.611629486084, UNKNOWN
+complications = data.groupby .. , 6.002902984619141, 1041.6145324707031, UNKNOWN
+data = data.merge(complications .. , 6.026744842529297, 1047.6412773132324, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 8.208036422729492, 1055.849313735962, UNKNOWN
+data = data[['smoker', 'las .. , 9.512186050415039, 1065.361499786377, UNKNOWN
+train_test_split .. , 5.000591278076172, 1070.3620910644531, UNKNOWN
+train_test_split .. , 747.9090690612793, 1818.2711601257324, UNKNOWN
+train_test_split .. , 104.5081615447998, 1922.7793216705322, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 16.286849975585938, 16.286849975585938, UNKNOWN
+data = patients.merge .. , 23.328304290771484, 39.61515426635742, UNKNOWN
+complications = data.groupby .. , 8.026361465454102, 47.64151573181152, UNKNOWN
+data = data.merge(complications .. , 15.56706428527832, 63.208580017089844, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 20.081520080566406, 83.29010009765625, UNKNOWN
+data = data[['smoker', 'las .. , 92.57674217224121, 175.86684226989746, UNKNOWN
+train_test_split .. , 13.581037521362305, 189.44787979125977, UNKNOWN
+train_test_split .. , 946.6006755828857, 1136.0485553741455, UNKNOWN
+train_test_split .. , 96.44317626953125, 1232.4917316436768, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 59.9825382232666, 1292.4742698669434, UNKNOWN
+data = patients.merge .. , 13.383150100708008, 1305.8574199676514, UNKNOWN
+complications = data.groupby .. , 9.023904800415039, 1314.8813247680664, UNKNOWN
+data = data.merge(complications .. , 15.083074569702148, 1329.9643993377686, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 20.657062530517578, 1350.6214618682861, UNKNOWN
+data = data[['smoker', 'las .. , 20.075321197509766, 1370.696783065796, UNKNOWN
+train_test_split .. , 27.58169174194336, 1398.2784748077393, UNKNOWN
+train_test_split .. , 758.659839630127, 2156.938314437866, UNKNOWN
+train_test_split .. , 106.8873405456543, 2263.8256549835205, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 13.546943664550781, 13.546943664550781, UNKNOWN
+data = patients.merge .. , 18.566608428955078, 32.11355209350586, UNKNOWN
+complications = data.groupby .. , 6.046295166015625, 38.159847259521484, UNKNOWN
+data = data.merge(complications .. , 16.077756881713867, 54.23760414123535, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 16.08896255493164, 70.32656669616699, UNKNOWN
+data = data[['smoker', 'las .. , 89.22767639160156, 159.55424308776855, UNKNOWN
+train_test_split .. , 14.595270156860352, 174.1495132446289, UNKNOWN
+train_test_split .. , 713.6003971099854, 887.7499103546143, UNKNOWN
+train_test_split .. , 103.44171524047852, 991.1916255950928, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 30.210256576538086, 1021.4018821716309, UNKNOWN
+data = patients.merge .. , 14.60719108581543, 1036.0090732574463, UNKNOWN
+complications = data.groupby .. , 6.011724472045898, 1042.0207977294922, UNKNOWN
+data = data.merge(complications .. , 14.079809188842773, 1056.100606918335, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 17.037630081176758, 1073.1382369995117, UNKNOWN
+data = data[['smoker', 'las .. , 20.596027374267578, 1093.7342643737793, UNKNOWN
+train_test_split .. , 26.61871910095215, 1120.3529834747314, UNKNOWN
+train_test_split .. , 763.3976936340332, 1883.7506771087646, UNKNOWN
+train_test_split .. , 103.99127006530762, 1987.7419471740723, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 21.309375762939453, 21.309375762939453, UNKNOWN
+data = patients.merge .. , 21.987438201904297, 43.29681396484375, UNKNOWN
+complications = data.groupby .. , 8.51130485534668, 51.80811882019043, UNKNOWN
+data = data.merge(complications .. , 16.508102416992188, 68.31622123718262, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 17.458438873291016, 85.77466011047363, UNKNOWN
+data = data[['smoker', 'las .. , 93.37067604064941, 179.14533615112305, UNKNOWN
+train_test_split .. , 12.0086669921875, 191.15400314331055, UNKNOWN
+train_test_split .. , 868.236780166626, 1059.3907833099365, UNKNOWN
+train_test_split .. , 101.46927833557129, 1160.8600616455078, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 96.5280532836914, 1257.3881149291992, UNKNOWN
+data = patients.merge .. , 20.026445388793945, 1277.4145603179932, UNKNOWN
+complications = data.groupby .. , 9.535551071166992, 1286.9501113891602, UNKNOWN
+data = data.merge(complications .. , 15.02680778503418, 1301.9769191741943, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 17.511844635009766, 1319.488763809204, UNKNOWN
+data = data[['smoker', 'las .. , 24.12247657775879, 1343.611240386963, UNKNOWN
+train_test_split .. , 35.03561019897461, 1378.6468505859375, UNKNOWN
+train_test_split .. , 739.389181137085, 2118.0360317230225, UNKNOWN
+train_test_split .. , 95.34788131713867, 2213.383913040161, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 20.02859115600586, 2233.412504196167, UNKNOWN
+data = patients.merge .. , 21.043777465820312, 2254.4562816619873, UNKNOWN
+complications = data.groupby .. , 8.014917373657227, 2262.4711990356445, UNKNOWN
+data = data.merge(complications .. , 16.531705856323242, 2279.002904891968, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 17.663955688476562, 2296.6668605804443, UNKNOWN
+data = data[['smoker', 'las .. , 18.51511001586914, 2315.1819705963135, UNKNOWN
+train_test_split .. , 14.528989791870117, 2329.7109603881836, UNKNOWN
+train_test_split .. , 777.442455291748, 3107.1534156799316, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 14.026641845703125, 14.026641845703125, UNKNOWN
+data = patients.merge .. , 19.038915634155273, 33.0655574798584, UNKNOWN
+complications = data.groupby .. , 4.595279693603516, 37.660837173461914, UNKNOWN
+data = data.merge(complications .. , 17.270326614379883, 54.9311637878418, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 17.111539840698242, 72.04270362854004, UNKNOWN
+data = data[['smoker', 'las .. , 96.29392623901367, 168.3366298675537, UNKNOWN
+train_test_split .. , 12.518644332885742, 180.85527420043945, UNKNOWN
+train_test_split .. , 785.2396965026855, 966.094970703125, UNKNOWN
+train_test_split .. , 107.27262496948242, 1073.3675956726074, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 35.05659103393555, 1108.424186706543, UNKNOWN
+data = patients.merge .. , 14.019012451171875, 1122.4431991577148, UNKNOWN
+complications = data.groupby .. , 8.505105972290039, 1130.9483051300049, UNKNOWN
+data = data.merge(complications .. , 15.056848526000977, 1146.0051536560059, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 17.531156539916992, 1163.5363101959229, UNKNOWN
+data = data[['smoker', 'las .. , 22.026777267456055, 1185.563087463379, UNKNOWN
+train_test_split .. , 26.86142921447754, 1212.4245166778564, UNKNOWN
+train_test_split .. , 760.1022720336914, 1972.5267887115479, UNKNOWN
+train_test_split .. , 96.58956527709961, 2069.1163539886475, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 25.069236755371094, 25.069236755371094, UNKNOWN
+data = patients.merge .. , 16.5557861328125, 41.625022888183594, UNKNOWN
+complications = data.groupby .. , 4.507303237915039, 46.13232612609863, UNKNOWN
+data = data.merge(complications .. , 16.054153442382812, 62.186479568481445, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 14.052867889404297, 76.23934745788574, UNKNOWN
+data = data[['smoker', 'las .. , 81.71558380126953, 157.95493125915527, UNKNOWN
+train_test_split .. , 10.032892227172852, 167.98782348632812, UNKNOWN
+train_test_split .. , 791.4702892303467, 959.4581127166748, UNKNOWN
+train_test_split .. , 93.25742721557617, 1052.715539932251, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 61.16652488708496, 1113.882064819336, UNKNOWN
+data = patients.merge .. , 20.56145668029785, 1134.4435214996338, UNKNOWN
+complications = data.groupby .. , 5.509138107299805, 1139.9526596069336, UNKNOWN
+data = data.merge(complications .. , 12.537717819213867, 1152.4903774261475, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 16.03412628173828, 1168.5245037078857, UNKNOWN
+data = data[['smoker', 'las .. , 20.58243751525879, 1189.1069412231445, UNKNOWN
+train_test_split .. , 28.11264991760254, 1217.219591140747, UNKNOWN
+train_test_split .. , 687.4525547027588, 1904.6721458435059, UNKNOWN
+train_test_split .. , 100.78120231628418, 2005.45334815979, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 17.05646514892578, 17.05646514892578, UNKNOWN
+data = patients.merge .. , 20.087718963623047, 37.14418411254883, UNKNOWN
+complications = data.groupby .. , 9.022235870361328, 46.166419982910156, UNKNOWN
+data = data.merge(complications .. , 17.510414123535156, 63.67683410644531, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 17.5168514251709, 81.19368553161621, UNKNOWN
+data = data[['smoker', 'las .. , 88.78779411315918, 169.9814796447754, UNKNOWN
+train_test_split .. , 12.514829635620117, 182.4963092803955, UNKNOWN
+train_test_split .. , 786.0171794891357, 968.5134887695312, UNKNOWN
+train_test_split .. , 114.17484283447266, 1082.688331604004, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 32.83882141113281, 1115.5271530151367, UNKNOWN
+data = patients.merge .. , 15.027999877929688, 1130.5551528930664, UNKNOWN
+complications = data.groupby .. , 7.502317428588867, 1138.0574703216553, UNKNOWN
+data = data.merge(complications .. , 15.50602912902832, 1153.5634994506836, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 18.013715744018555, 1171.5772151947021, UNKNOWN
+data = data[['smoker', 'las .. , 25.524377822875977, 1197.1015930175781, UNKNOWN
+train_test_split .. , 31.52322769165039, 1228.6248207092285, UNKNOWN
+train_test_split .. , 772.3686695098877, 2000.9934902191162, UNKNOWN
+train_test_split .. , 105.35144805908203, 2106.3449382781982, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 19.039630889892578, 19.039630889892578, UNKNOWN
+data = patients.merge .. , 22.731781005859375, 41.77141189575195, UNKNOWN
+complications = data.groupby .. , 7.565021514892578, 49.33643341064453, UNKNOWN
+data = data.merge(complications .. , 16.535282135009766, 65.8717155456543, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 18.038272857666016, 83.90998840332031, UNKNOWN
+data = data[['smoker', 'las .. , 90.69490432739258, 174.6048927307129, UNKNOWN
+train_test_split .. , 13.016939163208008, 187.6218318939209, UNKNOWN
+train_test_split .. , 881.4074993133545, 1069.0293312072754, UNKNOWN
+train_test_split .. , 99.65682029724121, 1168.6861515045166, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 49.17740821838379, 1217.8635597229004, UNKNOWN
+data = patients.merge .. , 16.465425491333008, 1234.3289852142334, UNKNOWN
+complications = data.groupby .. , 8.707284927368164, 1243.0362701416016, UNKNOWN
+data = data.merge(complications .. , 16.215801239013672, 1259.2520713806152, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 19.60301399230957, 1278.8550853729248, UNKNOWN
+data = data[['smoker', 'las .. , 22.03965187072754, 1300.8947372436523, UNKNOWN
+train_test_split .. , 30.568599700927734, 1331.46333694458, UNKNOWN
+train_test_split .. , 790.3108596801758, 2121.774196624756, UNKNOWN
+train_test_split .. , 119.86684799194336, 2241.641044616699, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 17.65608787536621, 17.65608787536621, UNKNOWN
+data = patients.merge .. , 22.164106369018555, 39.820194244384766, UNKNOWN
+complications = data.groupby .. , 6.515741348266602, 46.33593559265137, UNKNOWN
+data = data.merge(complications .. , 16.058921813964844, 62.39485740661621, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 22.0644474029541, 84.45930480957031, UNKNOWN
+data = data[['smoker', 'las .. , 85.88361740112305, 170.34292221069336, UNKNOWN
+train_test_split .. , 12.600183486938477, 182.94310569763184, UNKNOWN
+train_test_split .. , 803.1184673309326, 986.0615730285645, UNKNOWN
+train_test_split .. , 97.60403633117676, 1083.6656093597412, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 44.36779022216797, 1128.0333995819092, UNKNOWN
+data = patients.merge .. , 12.901544570922852, 1140.934944152832, UNKNOWN
+complications = data.groupby .. , 7.588386535644531, 1148.5233306884766, UNKNOWN
+data = data.merge(complications .. , 15.335559844970703, 1163.8588905334473, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 16.196250915527344, 1180.0551414489746, UNKNOWN
+data = data[['smoker', 'las .. , 21.138906478881836, 1201.1940479278564, UNKNOWN
+train_test_split .. , 28.6867618560791, 1229.8808097839355, UNKNOWN
+train_test_split .. , 791.3365364074707, 2021.2173461914062, UNKNOWN
+train_test_split .. , 100.83174705505371, 2122.04909324646, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 14.024734497070312, 14.024734497070312, UNKNOWN
+data = patients.merge .. , 17.526626586914062, 31.551361083984375, UNKNOWN
+complications = data.groupby .. , 5.019903182983398, 36.57126426696777, UNKNOWN
+data = data.merge(complications .. , 16.527414321899414, 53.09867858886719, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 17.543315887451172, 70.64199447631836, UNKNOWN
+data = data[['smoker', 'las .. , 90.3620719909668, 161.00406646728516, UNKNOWN
+train_test_split .. , 13.032674789428711, 174.03674125671387, UNKNOWN
+train_test_split .. , 787.6720428466797, 961.7087841033936, UNKNOWN
+train_test_split .. , 108.1700325012207, 1069.8788166046143, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 64.2390251159668, 1134.117841720581, UNKNOWN
+data = patients.merge .. , 18.037080764770508, 1152.1549224853516, UNKNOWN
+complications = data.groupby .. , 8.517980575561523, 1160.672903060913, UNKNOWN
+data = data.merge(complications .. , 16.14093780517578, 1176.8138408660889, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 19.345521926879883, 1196.1593627929688, UNKNOWN
+data = data[['smoker', 'las .. , 21.900177001953125, 1218.0595397949219, UNKNOWN
+train_test_split .. , 30.718326568603516, 1248.7778663635254, UNKNOWN
+train_test_split .. , 1073.9176273345947, 2322.69549369812, UNKNOWN
+train_test_split .. , 204.47516441345215, 2527.1706581115723, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 13.895273208618164, 13.895273208618164, UNKNOWN
+data = patients.merge .. , 17.08984375, 30.985116958618164, UNKNOWN
+complications = data.groupby .. , 5.012273788452148, 35.99739074707031, UNKNOWN
+data = data.merge(complications .. , 15.799283981323242, 51.796674728393555, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 16.61229133605957, 68.40896606445312, UNKNOWN
+data = data[['smoker', 'las .. , 90.7595157623291, 159.16848182678223, UNKNOWN
+train_test_split .. , 12.743234634399414, 171.91171646118164, UNKNOWN
+train_test_split .. , 741.6086196899414, 913.520336151123, UNKNOWN
+train_test_split .. , 96.52495384216309, 1010.0452899932861, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 41.80121421813965, 1051.8465042114258, UNKNOWN
+data = patients.merge .. , 14.915704727172852, 1066.7622089385986, UNKNOWN
+complications = data.groupby .. , 8.522748947143555, 1075.2849578857422, UNKNOWN
+data = data.merge(complications .. , 14.48512077331543, 1089.7700786590576, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 18.301010131835938, 1108.0710887908936, UNKNOWN
+data = data[['smoker', 'las .. , 19.60277557373047, 1127.673864364624, UNKNOWN
+train_test_split .. , 32.00507164001465, 1159.6789360046387, UNKNOWN
+train_test_split .. , 1051.8031120300293, 2211.482048034668, UNKNOWN
+train_test_split .. , 204.17261123657227, 2415.6546592712402, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 18.665552139282227, 18.665552139282227, UNKNOWN
+data = patients.merge .. , 20.673751831054688, 39.339303970336914, UNKNOWN
+complications = data.groupby .. , 6.440639495849609, 45.77994346618652, UNKNOWN
+data = data.merge(complications .. , 18.72706413269043, 64.50700759887695, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 17.72785186767578, 82.23485946655273, UNKNOWN
+data = data[['smoker', 'las .. , 91.60304069519043, 173.83790016174316, UNKNOWN
+train_test_split .. , 12.407302856445312, 186.24520301818848, UNKNOWN
+train_test_split .. , 784.3637466430664, 970.6089496612549, UNKNOWN
+train_test_split .. , 103.64222526550293, 1074.2511749267578, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 74.5537281036377, 1148.8049030303955, UNKNOWN
+data = patients.merge .. , 16.859054565429688, 1165.6639575958252, UNKNOWN
+complications = data.groupby .. , 7.440805435180664, 1173.1047630310059, UNKNOWN
+data = data.merge(complications .. , 15.289783477783203, 1188.394546508789, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 20.813465118408203, 1209.2080116271973, UNKNOWN
+data = data[['smoker', 'las .. , 21.03281021118164, 1230.240821838379, UNKNOWN
+train_test_split .. , 31.93187713623047, 1262.1726989746094, UNKNOWN
+train_test_split .. , 1120.2874183654785, 2382.460117340088, UNKNOWN
+train_test_split .. , 201.3094425201416, 2583.7695598602295, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 14.43791389465332, 14.43791389465332, UNKNOWN
+data = patients.merge .. , 16.97683334350586, 31.41474723815918, UNKNOWN
+complications = data.groupby .. , 5.921840667724609, 37.33658790588379, UNKNOWN
+data = data.merge(complications .. , 16.242504119873047, 53.579092025756836, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 16.283035278320312, 69.86212730407715, UNKNOWN
+data = data[['smoker', 'las .. , 84.46931838989258, 154.33144569396973, UNKNOWN
+train_test_split .. , 11.368989944458008, 165.70043563842773, UNKNOWN
+train_test_split .. , 778.9971828460693, 944.6976184844971, UNKNOWN
+train_test_split .. , 97.79119491577148, 1042.4888134002686, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 52.67834663391113, 1095.1671600341797, UNKNOWN
+data = patients.merge .. , 15.543222427368164, 1110.7103824615479, UNKNOWN
+complications = data.groupby .. , 7.407426834106445, 1118.1178092956543, UNKNOWN
+data = data.merge(complications .. , 16.246318817138672, 1134.364128112793, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 20.641326904296875, 1155.0054550170898, UNKNOWN
+data = data[['smoker', 'las .. , 24.265527725219727, 1179.2709827423096, UNKNOWN
+train_test_split .. , 30.09796142578125, 1209.3689441680908, UNKNOWN
+train_test_split .. , 1168.7183380126953, 2378.087282180786, UNKNOWN
+train_test_split .. , 217.12064743041992, 2595.207929611206, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 13.782739639282227, 13.782739639282227, UNKNOWN
+data = patients.merge .. , 18.69654655456543, 32.479286193847656, UNKNOWN
+complications = data.groupby .. , 5.953788757324219, 38.433074951171875, UNKNOWN
+data = data.merge(complications .. , 18.704891204833984, 57.13796615600586, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 18.171072006225586, 75.30903816223145, UNKNOWN
+data = data[['smoker', 'las .. , 90.12913703918457, 165.43817520141602, UNKNOWN
+train_test_split .. , 19.67763900756836, 185.11581420898438, UNKNOWN
+train_test_split .. , 779.473066329956, 964.5888805389404, UNKNOWN
+train_test_split .. , 95.27993202209473, 1059.8688125610352, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 59.0822696685791, 1118.9510822296143, UNKNOWN
+data = patients.merge .. , 14.229297637939453, 1133.1803798675537, UNKNOWN
+complications = data.groupby .. , 8.377313613891602, 1141.5576934814453, UNKNOWN
+data = data.merge(complications .. , 15.783071517944336, 1157.3407649993896, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 18.21589469909668, 1175.5566596984863, UNKNOWN
+data = data[['smoker', 'las .. , 20.662784576416016, 1196.2194442749023, UNKNOWN
+train_test_split .. , 31.04543685913086, 1227.2648811340332, UNKNOWN
+train_test_split .. , 1140.8965587615967, 2368.16143989563, UNKNOWN
+train_test_split .. , 190.11783599853516, 2558.279275894165, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 19.78135108947754, 19.78135108947754, UNKNOWN
+data = patients.merge .. , 23.67544174194336, 43.4567928314209, UNKNOWN
+complications = data.groupby .. , 5.419254302978516, 48.876047134399414, UNKNOWN
+data = data.merge(complications .. , 16.811609268188477, 65.68765640258789, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 18.2342529296875, 83.92190933227539, UNKNOWN
+data = data[['smoker', 'las .. , 89.44129943847656, 173.36320877075195, UNKNOWN
+train_test_split .. , 12.836456298828125, 186.19966506958008, UNKNOWN
+train_test_split .. , 787.3365879058838, 973.5362529754639, UNKNOWN
+train_test_split .. , 97.13268280029297, 1070.6689357757568, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 13.860225677490234, 13.860225677490234, UNKNOWN
+data = patients.merge .. , 16.25370979309082, 30.113935470581055, UNKNOWN
+complications = data.groupby .. , 5.447864532470703, 35.56180000305176, UNKNOWN
+data = data.merge(complications .. , 16.83950424194336, 52.40130424499512, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 19.272327423095703, 71.67363166809082, UNKNOWN
+data = data[['smoker', 'las .. , 85.53814888000488, 157.2117805480957, UNKNOWN
+train_test_split .. , 11.330127716064453, 168.54190826416016, UNKNOWN
+train_test_split .. , 805.6724071502686, 974.2143154144287, UNKNOWN
+train_test_split .. , 106.75883293151855, 1080.9731483459473, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 14.721870422363281, 14.721870422363281, UNKNOWN
+data = patients.merge .. , 17.189741134643555, 31.911611557006836, UNKNOWN
+complications = data.groupby .. , 4.915952682495117, 36.82756423950195, UNKNOWN
+data = data.merge(complications .. , 17.694473266601562, 54.522037506103516, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 18.24784278869629, 72.7698802947998, UNKNOWN
+data = data[['smoker', 'las .. , 94.0861701965332, 166.856050491333, UNKNOWN
+train_test_split .. , 12.306928634643555, 179.16297912597656, UNKNOWN
+train_test_split .. , 797.0008850097656, 976.1638641357422, UNKNOWN
+train_test_split .. , 111.5872859954834, 1087.7511501312256, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 45.838117599487305, 1133.589267730713, UNKNOWN
+data = patients.merge .. , 15.205621719360352, 1148.7948894500732, UNKNOWN
+complications = data.groupby .. , 7.417440414428711, 1156.212329864502, UNKNOWN
+data = data.merge(complications .. , 15.250682830810547, 1171.4630126953125, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 17.699718475341797, 1189.1627311706543, UNKNOWN
+data = data[['smoker', 'las .. , 21.700620651245117, 1210.8633518218994, UNKNOWN
+train_test_split .. , 30.00020980834961, 1240.863561630249, UNKNOWN
+train_test_split .. , 1147.8090286254883, 2388.6725902557373, UNKNOWN
+train_test_split .. , 208.4808349609375, 2597.153425216675, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 15.787124633789062, 15.787124633789062, UNKNOWN
+data = patients.merge .. , 21.663427352905273, 37.450551986694336, UNKNOWN
+complications = data.groupby .. , 7.3680877685546875, 44.81863975524902, UNKNOWN
+data = data.merge(complications .. , 17.194032669067383, 62.012672424316406, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 17.740964889526367, 79.75363731384277, UNKNOWN
+data = data[['smoker', 'las .. , 93.46580505371094, 173.2194423675537, UNKNOWN
+train_test_split .. , 12.322664260864258, 185.54210662841797, UNKNOWN
+train_test_split .. , 892.009973526001, 1077.552080154419, UNKNOWN
+train_test_split .. , 105.69286346435547, 1183.2449436187744, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 47.417402267456055, 1230.6623458862305, UNKNOWN
+data = patients.merge .. , 16.78633689880371, 1247.4486827850342, UNKNOWN
+complications = data.groupby .. , 8.381366729736328, 1255.8300495147705, UNKNOWN
+data = data.merge(complications .. , 16.29495620727539, 1272.125005722046, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 17.81177520751953, 1289.9367809295654, UNKNOWN
+data = data[['smoker', 'las .. , 21.750211715698242, 1311.6869926452637, UNKNOWN
+train_test_split .. , 29.59418296813965, 1341.2811756134033, UNKNOWN
+train_test_split .. , 1242.7527904510498, 2584.033966064453, UNKNOWN
+train_test_split .. , 215.2869701385498, 2799.320936203003, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 15.798568725585938, 15.798568725585938, UNKNOWN
+data = patients.merge .. , 18.795013427734375, 34.59358215332031, UNKNOWN
+complications = data.groupby .. , 4.912853240966797, 39.50643539428711, UNKNOWN
+data = data.merge(complications .. , 16.818523406982422, 56.32495880126953, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 18.788576126098633, 75.11353492736816, UNKNOWN
+data = data[['smoker', 'las .. , 94.27785873413086, 169.39139366149902, UNKNOWN
+train_test_split .. , 13.362884521484375, 182.7542781829834, UNKNOWN
+train_test_split .. , 874.8822212219238, 1057.6364994049072, UNKNOWN
+train_test_split .. , 104.38060760498047, 1162.0171070098877, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 15.316486358642578, 15.316486358642578, UNKNOWN
+data = patients.merge .. , 20.672082901000977, 35.988569259643555, UNKNOWN
+complications = data.groupby .. , 5.416393280029297, 41.40496253967285, UNKNOWN
+data = data.merge(complications .. , 20.663976669311523, 62.068939208984375, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 19.687891006469727, 81.7568302154541, UNKNOWN
+data = data[['smoker', 'las .. , 97.03564643859863, 178.79247665405273, UNKNOWN
+train_test_split .. , 13.843774795532227, 192.63625144958496, UNKNOWN
+train_test_split .. , 885.9169483184814, 1078.5531997680664, UNKNOWN
+train_test_split .. , 111.44423484802246, 1189.9974346160889, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 15.248537063598633, 15.248537063598633, UNKNOWN
+data = patients.merge .. , 19.71888542175293, 34.96742248535156, UNKNOWN
+complications = data.groupby .. , 4.918813705444336, 39.8862361907959, UNKNOWN
+data = data.merge(complications .. , 17.727375030517578, 57.61361122131348, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 18.7838077545166, 76.39741897583008, UNKNOWN
+data = data[['smoker', 'las .. , 90.20209312438965, 166.59951210021973, UNKNOWN
+train_test_split .. , 16.390323638916016, 182.98983573913574, UNKNOWN
+train_test_split .. , 914.2212867736816, 1097.2111225128174, UNKNOWN
+train_test_split .. , 112.46418952941895, 1209.6753120422363, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 15.861749649047852, 15.861749649047852, UNKNOWN
+data = patients.merge .. , 19.290685653686523, 35.152435302734375, UNKNOWN
+complications = data.groupby .. , 5.51605224609375, 40.668487548828125, UNKNOWN
+data = data.merge(complications .. , 17.483949661254883, 58.15243721008301, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 17.845869064331055, 75.99830627441406, UNKNOWN
+data = data[['smoker', 'las .. , 90.91949462890625, 166.9178009033203, UNKNOWN
+train_test_split .. , 12.861967086791992, 179.7797679901123, UNKNOWN
+train_test_split .. , 898.0388641357422, 1077.8186321258545, UNKNOWN
+train_test_split .. , 110.13460159301758, 1187.953233718872, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 14.333486557006836, 14.333486557006836, UNKNOWN
+data = patients.merge .. , 19.32072639465332, 33.654212951660156, UNKNOWN
+complications = data.groupby .. , 5.459308624267578, 39.113521575927734, UNKNOWN
+data = data.merge(complications .. , 21.175384521484375, 60.28890609741211, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 18.81241798400879, 79.1013240814209, UNKNOWN
+data = data[['smoker', 'las .. , 91.6893482208252, 170.7906723022461, UNKNOWN
+train_test_split .. , 16.79372787475586, 187.58440017700195, UNKNOWN
+train_test_split .. , 893.6376571655273, 1081.2220573425293, UNKNOWN
+train_test_split .. , 106.32848739624023, 1187.5505447387695, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 50.02999305725098, 1237.5805377960205, UNKNOWN
+data = patients.merge .. , 20.872831344604492, 1258.453369140625, UNKNOWN
+complications = data.groupby .. , 9.953975677490234, 1268.4073448181152, UNKNOWN
+data = data.merge(complications .. , 16.872644424438477, 1285.2799892425537, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 19.855976104736328, 1305.13596534729, UNKNOWN
+data = data[['smoker', 'las .. , 23.360013961791992, 1328.495979309082, UNKNOWN
+train_test_split .. , 33.2486629486084, 1361.7446422576904, UNKNOWN
+train_test_split .. , 1270.7037925720215, 2632.448434829712, UNKNOWN
+train_test_split .. , 227.6899814605713, 2860.138416290283, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 14.8773193359375, 14.8773193359375, UNKNOWN
+data = patients.merge .. , 19.858360290527344, 34.735679626464844, UNKNOWN
+complications = data.groupby .. , 5.491495132446289, 40.22717475891113, UNKNOWN
+data = data.merge(complications .. , 17.870426177978516, 58.09760093688965, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 18.834829330444336, 76.93243026733398, UNKNOWN
+data = data[['smoker', 'las .. , 98.43039512634277, 175.36282539367676, UNKNOWN
+train_test_split .. , 13.318777084350586, 188.68160247802734, UNKNOWN
+train_test_split .. , 918.0521965026855, 1106.733798980713, UNKNOWN
+train_test_split .. , 113.12103271484375, 1219.8548316955566, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 47.03402519226074, 1266.8888568878174, UNKNOWN
+data = patients.merge .. , 19.801855087280273, 1286.6907119750977, UNKNOWN
+complications = data.groupby .. , 9.907960891723633, 1296.5986728668213, UNKNOWN
+data = data.merge(complications .. , 20.276546478271484, 1316.8752193450928, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 24.785757064819336, 1341.660976409912, UNKNOWN
+data = data[['smoker', 'las .. , 27.18067169189453, 1368.8416481018066, UNKNOWN
+train_test_split .. , 35.57229042053223, 1404.4139385223389, UNKNOWN
+train_test_split .. , 1260.4663372039795, 2664.8802757263184, UNKNOWN
+train_test_split .. , 220.9315299987793, 2885.8118057250977, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 19.85335350036621, 19.85335350036621, UNKNOWN
+data = patients.merge .. , 22.250652313232422, 42.10400581359863, UNKNOWN
+complications = data.groupby .. , 6.905794143676758, 49.00979995727539, UNKNOWN
+data = data.merge(complications .. , 15.841007232666016, 64.8508071899414, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 28.107404708862305, 92.95821189880371, UNKNOWN
+data = data[['smoker', 'las .. , 88.08326721191406, 181.04147911071777, UNKNOWN
+train_test_split .. , 14.227151870727539, 195.2686309814453, UNKNOWN
+train_test_split .. , 920.4089641571045, 1115.6775951385498, UNKNOWN
+train_test_split .. , 152.6503562927246, 1268.3279514312744, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 85.91532707214355, 1354.243278503418, UNKNOWN
+data = patients.merge .. , 17.957448959350586, 1372.2007274627686, UNKNOWN
+complications = data.groupby .. , 7.375240325927734, 1379.5759677886963, UNKNOWN
+data = data.merge(complications .. , 14.336109161376953, 1393.9120769500732, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 23.77915382385254, 1417.6912307739258, UNKNOWN
+data = data[['smoker', 'las .. , 21.691560745239258, 1439.382791519165, UNKNOWN
+train_test_split .. , 33.215999603271484, 1472.5987911224365, UNKNOWN
+train_test_split .. , 1263.8275623321533, 2736.42635345459, UNKNOWN
+train_test_split .. , 224.56002235412598, 2960.986375808716, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 13.799905776977539, 2974.7862815856934, UNKNOWN
+data = patients.merge .. , 18.88561248779297, 2993.6718940734863, UNKNOWN
+complications = data.groupby .. , 6.030082702636719, 2999.701976776123, UNKNOWN
+data = data.merge(complications .. , 17.31109619140625, 3017.0130729675293, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 14.865875244140625, 3031.87894821167, UNKNOWN
+data = data[['smoker', 'las .. , 19.87171173095703, 3051.750659942627, UNKNOWN
+train_test_split .. , 12.939691543579102, 3064.690351486206, UNKNOWN
+train_test_split .. , 730.5848598480225, 3795.2752113342285, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 14.43624496459961, 14.43624496459961, UNKNOWN
+data = patients.merge .. , 16.849756240844727, 31.286001205444336, UNKNOWN
+complications = data.groupby .. , 7.878780364990234, 39.16478157043457, UNKNOWN
+data = data.merge(complications .. , 21.83055877685547, 60.99534034729004, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 17.821788787841797, 78.81712913513184, UNKNOWN
+data = data[['smoker', 'las .. , 98.97875785827637, 177.7958869934082, UNKNOWN
+train_test_split .. , 16.00337028503418, 193.79925727844238, UNKNOWN
+train_test_split .. , 815.9201145172119, 1009.7193717956543, UNKNOWN
+train_test_split .. , 100.59356689453125, 1110.3129386901855, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 42.592525482177734, 1152.9054641723633, UNKNOWN
+data = patients.merge .. , 14.371156692504883, 1167.2766208648682, UNKNOWN
+complications = data.groupby .. , 7.593870162963867, 1174.870491027832, UNKNOWN
+data = data.merge(complications .. , 15.437602996826172, 1190.3080940246582, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 19.326448440551758, 1209.63454246521, UNKNOWN
+data = data[['smoker', 'las .. , 20.826339721679688, 1230.4608821868896, UNKNOWN
+train_test_split .. , 30.141830444335938, 1260.6027126312256, UNKNOWN
+train_test_split .. , 1127.7921199798584, 2388.394832611084, UNKNOWN
+train_test_split .. , 201.4291286468506, 2589.8239612579346, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 19.94919776916504, 19.94919776916504, UNKNOWN
+data = patients.merge .. , 20.93982696533203, 40.88902473449707, UNKNOWN
+complications = data.groupby .. , 8.531808853149414, 49.420833587646484, UNKNOWN
+data = data.merge(complications .. , 19.054889678955078, 68.47572326660156, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 19.535064697265625, 88.01078796386719, UNKNOWN
+data = data[['smoker', 'las .. , 88.53483200073242, 176.5456199645996, UNKNOWN
+train_test_split .. , 13.047933578491211, 189.59355354309082, UNKNOWN
+train_test_split .. , 866.2829399108887, 1055.8764934539795, UNKNOWN
+train_test_split .. , 121.46210670471191, 1177.3386001586914, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 70.79911231994629, 1248.1377124786377, UNKNOWN
+data = patients.merge .. , 16.38627052307129, 1264.523983001709, UNKNOWN
+complications = data.groupby .. , 7.216930389404297, 1271.7409133911133, UNKNOWN
+data = data.merge(complications .. , 17.519712448120117, 1289.2606258392334, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 18.5244083404541, 1307.7850341796875, UNKNOWN
+data = data[['smoker', 'las .. , 22.214174270629883, 1329.9992084503174, UNKNOWN
+train_test_split .. , 29.82187271118164, 1359.821081161499, UNKNOWN
+train_test_split .. , 1109.6434593200684, 2469.4645404815674, UNKNOWN
+train_test_split .. , 205.9154510498047, 2675.379991531372, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 14.564275741577148, 14.564275741577148, UNKNOWN
+data = patients.merge .. , 16.550064086914062, 31.11433982849121, UNKNOWN
+complications = data.groupby .. , 5.388975143432617, 36.50331497192383, UNKNOWN
+data = data.merge(complications .. , 18.06497573852539, 54.56829071044922, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 17.215728759765625, 71.78401947021484, UNKNOWN
+data = data[['smoker', 'las .. , 84.14125442504883, 155.92527389526367, UNKNOWN
+train_test_split .. , 11.566638946533203, 167.49191284179688, UNKNOWN
+train_test_split .. , 777.8196334838867, 945.3115463256836, UNKNOWN
+train_test_split .. , 99.47800636291504, 1044.7895526885986, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 45.409202575683594, 1090.1987552642822, UNKNOWN
+data = patients.merge .. , 14.54782485961914, 1104.7465801239014, UNKNOWN
+complications = data.groupby .. , 7.0667266845703125, 1111.8133068084717, UNKNOWN
+data = data.merge(complications .. , 15.579700469970703, 1127.3930072784424, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 18.66626739501953, 1146.059274673462, UNKNOWN
+data = data[['smoker', 'las .. , 19.99068260192871, 1166.0499572753906, UNKNOWN
+train_test_split .. , 28.875112533569336, 1194.92506980896, UNKNOWN
+train_test_split .. , 1171.1361408233643, 2366.061210632324, UNKNOWN
+train_test_split .. , 212.54563331604004, 2578.6068439483643, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 13.523340225219727, 2592.130184173584, UNKNOWN
+data = patients.merge .. , 17.127513885498047, 2609.257698059082, UNKNOWN
+complications = data.groupby .. , 5.02777099609375, 2614.285469055176, UNKNOWN
+data = data.merge(complications .. , 16.742467880249023, 2631.027936935425, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 23.18286895751953, 2654.2108058929443, UNKNOWN
+data = data[['smoker', 'las .. , 16.52216911315918, 2670.7329750061035, UNKNOWN
+train_test_split .. , 12.019157409667969, 2682.7521324157715, UNKNOWN
+train_test_split .. , 742.1252727508545, 3424.877405166626, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 20.08676528930664, 20.08676528930664, UNKNOWN
+data = patients.merge .. , 18.42188835144043, 38.50865364074707, UNKNOWN
+complications = data.groupby .. , 5.504608154296875, 44.013261795043945, UNKNOWN
+data = data.merge(complications .. , 17.90308952331543, 61.916351318359375, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 18.01013946533203, 79.9264907836914, UNKNOWN
+data = data[['smoker', 'las .. , 83.68992805480957, 163.61641883850098, UNKNOWN
+train_test_split .. , 13.048410415649414, 176.6648292541504, UNKNOWN
+train_test_split .. , 764.2886638641357, 940.9534931182861, UNKNOWN
+train_test_split .. , 104.79927062988281, 1045.752763748169, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 45.38750648498535, 1091.1402702331543, UNKNOWN
+data = patients.merge .. , 15.179634094238281, 1106.3199043273926, UNKNOWN
+complications = data.groupby .. , 9.052276611328125, 1115.3721809387207, UNKNOWN
+data = data.merge(complications .. , 15.807867050170898, 1131.1800479888916, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 18.08619499206543, 1149.266242980957, UNKNOWN
+data = data[['smoker', 'las .. , 21.924972534179688, 1171.1912155151367, UNKNOWN
+train_test_split .. , 30.032873153686523, 1201.2240886688232, UNKNOWN
+train_test_split .. , 1120.6951141357422, 2321.9192028045654, UNKNOWN
+train_test_split .. , 197.79086112976074, 2519.710063934326, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 15.21921157836914, 15.21921157836914, UNKNOWN
+data = patients.merge .. , 20.01047134399414, 35.22968292236328, UNKNOWN
+complications = data.groupby .. , 5.005359649658203, 40.235042572021484, UNKNOWN
+data = data.merge(complications .. , 17.0133113861084, 57.24835395812988, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 18.33963394165039, 75.58798789978027, UNKNOWN
+data = data[['smoker', 'las .. , 92.27156639099121, 167.85955429077148, UNKNOWN
+train_test_split .. , 13.034343719482422, 180.8938980102539, UNKNOWN
+train_test_split .. , 806.0648441314697, 986.9587421417236, UNKNOWN
+train_test_split .. , 123.77119064331055, 1110.7299327850342, UNKNOWN
+patients = pd.read_csv .. & histories = pd.read_csv .., 612134.4821453094, 613245.2120780945, UNKNOWN
+data = patients.merge .. , 23.632526397705078, 613268.8446044922, UNKNOWN
+complications = data.groupby .. , 9.505033493041992, 613278.3496379852, UNKNOWN
+data = data.merge(complications .. , 21.034717559814453, 613299.384355545, UNKNOWN
+data['label'] = data['complications'] > 1.2 * data['mean_complications'], 27.039766311645508, 613326.4241218567, UNKNOWN
+data = data[['smoker', 'las .. , 32.013893127441406, 613358.4380149841, UNKNOWN
+train_test_split .. , 38.915395736694336, 613397.3534107208, UNKNOWN
+train_test_split .. , 1203.4974098205566, 614600.8508205414, UNKNOWN
+train_test_split .. , 213.52434158325195, 614814.3751621246, UNKNOWN
+train_test_split .. , 14.343976974487305, 14.343976974487305, UNKNOWN
+train_test_split .. , 948.1155872344971, 962.4595642089844, UNKNOWN
+train_test_split .. , 105.80062866210938, 1068.2601928710938, UNKNOWN
+train_test_split .. , 16.326904296875, 16.326904296875, UNKNOWN
+train_test_split .. , 823.0881690979004, 839.4150733947754, UNKNOWN
+train_test_split .. , 108.99567604064941, 948.4107494354248, UNKNOWN
+train_test_split .. , 36.68975830078125, 985.100507736206, UNKNOWN
+train_test_split .. , 1164.3340587615967, 2149.4345664978027, UNKNOWN
+train_test_split .. , 219.5122241973877, 2368.9467906951904, UNKNOWN
+train_test_split .. , 13.35287094116211, 13.35287094116211, UNKNOWN
+train_test_split .. , 797.8119850158691, 811.1648559570312, UNKNOWN
+train_test_split .. , 104.20417785644531, 915.3690338134766, UNKNOWN
+train_test_split .. , 15.853643417358398, 15.853643417358398, UNKNOWN
+train_test_split .. , 886.772632598877, 902.6262760162354, UNKNOWN
+train_test_split .. , 121.0176944732666, 1023.643970489502, UNKNOWN
+train_test_split .. , 15.26784896850586, 15.26784896850586, UNKNOWN
+train_test_split .. , 909.4059467315674, 924.6737957000732, UNKNOWN
+train_test_split .. , 112.8394603729248, 1037.513256072998, UNKNOWN
+train_test_split .. , 40.67635536193848, 1078.1896114349365, UNKNOWN
+train_test_split .. , 1262.8586292266846, 2341.048240661621, UNKNOWN
+train_test_split .. , 235.5813980102539, 2576.629638671875, UNKNOWN
+train_test_split .. , 16.40176773071289, 16.40176773071289, UNKNOWN
+train_test_split .. , 966.5756225585938, 982.9773902893066, UNKNOWN
+train_test_split .. , 120.19133567810059, 1103.1687259674072, UNKNOWN
+train_test_split .. , 38.5286808013916, 1141.6974067687988, UNKNOWN
+train_test_split .. , 1287.0051860809326, 2428.7025928497314, UNKNOWN
+train_test_split .. , 232.44547843933105, 2661.1480712890625, UNKNOWN
+train_test_split .. , 14.26553726196289, 14.26553726196289, UNKNOWN
+train_test_split .. , 843.6989784240723, 857.9645156860352, UNKNOWN
+train_test_split .. , 103.74093055725098, 961.7054462432861, UNKNOWN
+train_test_split .. , 35.283803939819336, 996.9892501831055, UNKNOWN
+train_test_split .. , 1154.3378829956055, 2151.327133178711, UNKNOWN
+train_test_split .. , 207.50188827514648, 2358.8290214538574, UNKNOWN
+train_test_split .. , 13.025283813476562, 13.025283813476562, UNKNOWN
+train_test_split .. , 891.5255069732666, 904.5507907867432, UNKNOWN
+train_test_split .. , 99.0135669708252, 1003.5643577575684, UNKNOWN
+train_test_split .. , 13.550996780395508, 13.550996780395508, UNKNOWN
+train_test_split .. , 780.6732654571533, 794.2242622375488, UNKNOWN
+train_test_split .. , 103.49774360656738, 897.7220058441162, UNKNOWN
+train_test_split .. , 11.762619018554688, 11.762619018554688, UNKNOWN
+train_test_split .. , 776.0047912597656, 787.7674102783203, UNKNOWN
+train_test_split .. , 106.55713081359863, 894.324541091919, UNKNOWN
+train_test_split .. , 11.049747467041016, 11.049747467041016, UNKNOWN
+train_test_split .. , 868.2336807250977, 879.2834281921387, UNKNOWN
+train_test_split .. , 112.3960018157959, 991.6794300079346, UNKNOWN
+train_test_split .. , 20.566463470458984, 20.566463470458984, UNKNOWN
+train_test_split .. , 902.4240970611572, 922.9905605316162, UNKNOWN
+train_test_split .. , 118.05605888366699, 1041.0466194152832, UNKNOWN
+train_test_split .. , 13.538599014282227, 13.538599014282227, UNKNOWN
+train_test_split .. , 872.3764419555664, 885.9150409698486, UNKNOWN
+train_test_split .. , 99.13206100463867, 985.0471019744873, UNKNOWN
+train_test_split .. , 16.766786575317383, 16.766786575317383, UNKNOWN
+train_test_split .. , 1099.0896224975586, 1115.856409072876, UNKNOWN
+train_test_split .. , 101.23729705810547, 1217.0937061309814, UNKNOWN
+train_test_split .. , 12.026548385620117, 12.026548385620117, UNKNOWN
+train_test_split .. , 773.5908031463623, 785.6173515319824, UNKNOWN
+train_test_split .. , 101.8836498260498, 887.5010013580322, UNKNOWN
+train_test_split .. , 13.137340545654297, 13.137340545654297, UNKNOWN
+train_test_split .. , 759.8636150360107, 773.000955581665, UNKNOWN
+train_test_split .. , 97.37849235534668, 870.3794479370117, UNKNOWN
+train_test_split .. , 16.09015464782715, 16.09015464782715, UNKNOWN
+train_test_split .. , 778.9387702941895, 795.0289249420166, UNKNOWN
+train_test_split .. , 95.54409980773926, 890.5730247497559, UNKNOWN
+train_test_split .. , 13.100624084472656, 13.100624084472656, UNKNOWN
+train_test_split .. , 747.0834255218506, 760.1840496063232, UNKNOWN
+train_test_split .. , 95.95179557800293, 856.1358451843262, UNKNOWN
+train_test_split .. , 13.048410415649414, 13.048410415649414, UNKNOWN
+train_test_split .. , 834.0678215026855, 847.116231918335, UNKNOWN
+train_test_split .. , 106.06861114501953, 953.1848430633545, UNKNOWN
+train_test_split .. , 12.572288513183594, 12.572288513183594, UNKNOWN
+train_test_split .. , 860.6791496276855, 873.2514381408691, UNKNOWN
+train_test_split .. , 99.36976432800293, 972.6212024688721, UNKNOWN
+train_test_split .. , 14.116764068603516, 14.116764068603516, UNKNOWN
+train_test_split .. , 874.9613761901855, 889.0781402587891, UNKNOWN
+train_test_split .. , 99.12300109863281, 988.2011413574219, UNKNOWN
+train_test_split .. , 15.62952995300293, 15.62952995300293, UNKNOWN
+train_test_split .. , 768.8939571380615, 784.5234870910645, UNKNOWN
+train_test_split .. , 99.96390342712402, 884.4873905181885, UNKNOWN
+train_test_split .. , 43.149471282958984, 927.6368618011475, UNKNOWN
+train_test_split .. , 1067.2571659088135, 1994.894027709961, UNKNOWN
+train_test_split .. , 191.10751152038574, 2186.0015392303467, UNKNOWN
+train_test_split .. , 9.598970413208008, 9.598970413208008, UNKNOWN
+train_test_split .. , 880.0497055053711, 889.6486759185791, UNKNOWN
+train_test_split .. , 95.25489807128906, 984.9035739898682, UNKNOWN
+train_test_split .. , 10.105609893798828, 10.105609893798828, UNKNOWN
+train_test_split .. , 763.1163597106934, 773.2219696044922, UNKNOWN
+train_test_split .. , 97.98717498779297, 871.2091445922852, UNKNOWN
+train_test_split .. , 12.112617492675781, 12.112617492675781, UNKNOWN
+train_test_split .. , 789.3717288970947, 801.4843463897705, UNKNOWN
+train_test_split .. , 100.27813911437988, 901.7624855041504, UNKNOWN
+train_test_split .. , 10.546207427978516, 10.546207427978516, UNKNOWN
+train_test_split .. , 718.5094356536865, 729.055643081665, UNKNOWN
+train_test_split .. , 88.56511116027832, 817.6207542419434, UNKNOWN
+train_test_split .. , 12.53366470336914, 12.53366470336914, UNKNOWN
+train_test_split .. , 794.647216796875, 807.1808815002441, UNKNOWN
+train_test_split .. , 101.23586654663086, 908.416748046875, UNKNOWN
+train_test_split .. , 10.034561157226562, 10.034561157226562, UNKNOWN
+train_test_split .. , 791.435956954956, 801.4705181121826, UNKNOWN
+train_test_split .. , 91.68696403503418, 893.1574821472168, UNKNOWN
+train_test_split .. , 11.74020767211914, 11.74020767211914, UNKNOWN
+train_test_split .. , 957.7951431274414, 969.5353507995605, UNKNOWN
+train_test_split .. , 96.89569473266602, 1066.4310455322266, UNKNOWN
+train_test_split .. , 12.538909912109375, 12.538909912109375, UNKNOWN
+train_test_split .. , 743.5483932495117, 756.0873031616211, UNKNOWN
+train_test_split .. , 98.88100624084473, 854.9683094024658, UNKNOWN
+train_test_split .. , 10.030269622802734, 10.030269622802734, UNKNOWN
+train_test_split .. , 786.7558002471924, 796.7860698699951, UNKNOWN
+train_test_split .. , 92.00406074523926, 888.7901306152344, UNKNOWN
+train_test_split .. , 10.517358779907227, 10.517358779907227, UNKNOWN
+train_test_split .. , 890.2442455291748, 900.761604309082, UNKNOWN
+train_test_split .. , 102.40411758422852, 1003.1657218933105, UNKNOWN
+train_test_split .. , 20.52927017211914, 20.52927017211914, UNKNOWN
+train_test_split .. , 916.3641929626465, 936.8934631347656, UNKNOWN
+train_test_split .. , 98.39987754821777, 1035.2933406829834, UNKNOWN
+train_test_split .. , 14.086246490478516, 14.086246490478516, UNKNOWN
+train_test_split .. , 1003.2527446746826, 1017.3389911651611, UNKNOWN
+train_test_split .. , 105.1185131072998, 1122.457504272461, UNKNOWN
+train_test_split .. , 47.88517951965332, 1170.3426837921143, UNKNOWN
+train_test_split .. , 1246.0925579071045, 2416.4352416992188, UNKNOWN
+train_test_split .. , 241.2874698638916, 2657.7227115631104, UNKNOWN
+train_test_split .. , 12.541055679321289, 12.541055679321289, UNKNOWN
+train_test_split .. , 914.2131805419922, 926.7542362213135, UNKNOWN
+train_test_split .. , 96.93169593811035, 1023.6859321594238, UNKNOWN
+train_test_split .. , 40.27819633483887, 1063.9641284942627, UNKNOWN
+train_test_split .. , 1291.9988632202148, 2355.9629917144775, UNKNOWN
+train_test_split .. , 264.6491527557373, 2620.612144470215, UNKNOWN
+train_test_split .. , 12.015819549560547, 12.015819549560547, UNKNOWN
+train_test_split .. , 751.084566116333, 763.1003856658936, UNKNOWN
+train_test_split .. , 98.12164306640625, 861.2220287322998, UNKNOWN
+train_test_split .. , 40.19927978515625, 901.421308517456, UNKNOWN
+train_test_split .. , 1069.0927505493164, 1970.5140590667725, UNKNOWN
+train_test_split .. , 208.59599113464355, 2179.110050201416, UNKNOWN
+train_test_split .. , 12.040853500366211, 12.040853500366211, UNKNOWN
+train_test_split .. , 814.3191337585449, 826.3599872589111, UNKNOWN
+train_test_split .. , 104.89320755004883, 931.25319480896, UNKNOWN
+train_test_split .. , 39.086103439331055, 970.339298248291, UNKNOWN
+train_test_split .. , 1136.9121074676514, 2107.2514057159424, UNKNOWN
+train_test_split .. , 207.90576934814453, 2315.157175064087, UNKNOWN
+train_test_split .. , 10.058403015136719, 10.058403015136719, UNKNOWN
+train_test_split .. , 746.2208271026611, 756.2792301177979, UNKNOWN
+train_test_split .. , 96.26340866088867, 852.5426387786865, UNKNOWN
+train_test_split .. , 42.18769073486328, 894.7303295135498, UNKNOWN
+train_test_split .. , 1171.205997467041, 2065.936326980591, UNKNOWN
+train_test_split .. , 216.41063690185547, 2282.3469638824463, UNKNOWN
+train_test_split .. , 11.686563491821289, 11.686563491821289, UNKNOWN
+train_test_split .. , 734.3106269836426, 745.9971904754639, UNKNOWN
+train_test_split .. , 93.72353553771973, 839.7207260131836, UNKNOWN
+train_test_split .. , 36.41080856323242, 876.131534576416, UNKNOWN
+train_test_split .. , 1075.4013061523438, 1951.5328407287598, UNKNOWN
+train_test_split .. , 208.4176540374756, 2159.9504947662354, UNKNOWN
+train_test_split .. , 16.32213592529297, 16.32213592529297, UNKNOWN
+train_test_split .. , 758.3229541778564, 774.6450901031494, UNKNOWN
+train_test_split .. , 95.75748443603516, 870.4025745391846, UNKNOWN
+train_test_split .. , 37.68348693847656, 908.0860614776611, UNKNOWN
+train_test_split .. , 1079.5207023620605, 1987.6067638397217, UNKNOWN
+train_test_split .. , 200.11258125305176, 2187.7193450927734, UNKNOWN
+train_test_split .. , 12.128353118896484, 2199.84769821167, UNKNOWN
+train_test_split .. , 754.4350624084473, 2954.282760620117, UNKNOWN
+train_test_split .. , 12.533903121948242, 12.533903121948242, UNKNOWN
+train_test_split .. , 839.8497104644775, 852.3836135864258, UNKNOWN
+train_test_split .. , 108.04390907287598, 960.4275226593018, UNKNOWN
+train_test_split .. , 14.559030532836914, 14.559030532836914, UNKNOWN
+train_test_split .. , 841.4409160614014, 855.9999465942383, UNKNOWN
+train_test_split .. , 108.11209678649902, 964.1120433807373, UNKNOWN
+train_test_split .. , 44.150590896606445, 1008.2626342773438, UNKNOWN
+train_test_split .. , 1297.6343631744385, 2305.896997451782, UNKNOWN
+train_test_split .. , 225.82244873046875, 2531.719446182251, UNKNOWN
+train_test_split .. , 32.09733963012695, 32.09733963012695, UNKNOWN
+train_test_split .. , 968.1859016418457, 1000.2832412719727, UNKNOWN
+train_test_split .. , 126.26409530639648, 1126.5473365783691, UNKNOWN
+train_test_split .. , 49.002885818481445, 1175.5502223968506, UNKNOWN
+train_test_split .. , 1266.1640644073486, 2441.714286804199, UNKNOWN
+train_test_split .. , 218.80531311035156, 2660.519599914551, UNKNOWN
+train_test_split .. , 12.04061508178711, 12.04061508178711, UNKNOWN
+train_test_split .. , 812.4964237213135, 824.5370388031006, UNKNOWN
+train_test_split .. , 103.17111015319824, 927.7081489562988, UNKNOWN
+train_test_split .. , 47.62458801269531, 975.3327369689941, UNKNOWN
+train_test_split .. , 1197.1795558929443, 2172.5122928619385, UNKNOWN
+train_test_split .. , 208.76646041870117, 2381.2787532806396, UNKNOWN
+train_test_split .. , 11.593818664550781, 11.593818664550781, UNKNOWN
+train_test_split .. , 807.4419498443604, 819.0357685089111, UNKNOWN
+train_test_split .. , 108.44540596008301, 927.4811744689941, UNKNOWN
+train_test_split .. , 41.12958908081055, 968.6107635498047, UNKNOWN
+train_test_split .. , 1165.4369831085205, 2134.047746658325, UNKNOWN
+train_test_split .. , 234.09557342529297, 2368.143320083618, UNKNOWN
+train_test_split .. , 10.036706924438477, 10.036706924438477, UNKNOWN
+train_test_split .. , 817.2590732574463, 827.2957801818848, UNKNOWN
+train_test_split .. , 96.28081321716309, 923.5765933990479, UNKNOWN
+train_test_split .. , 43.14446449279785, 966.7210578918457, UNKNOWN
+train_test_split .. , 1093.7485694885254, 2060.469627380371, UNKNOWN
+train_test_split .. , 198.84824752807617, 2259.3178749084473, UNKNOWN
+train_test_split .. , 12.083768844604492, 12.083768844604492, UNKNOWN
+train_test_split .. , 774.1756439208984, 786.2594127655029, UNKNOWN
+train_test_split .. , 105.4530143737793, 891.7124271392822, UNKNOWN
+train_test_split .. , 40.57908058166504, 932.2915077209473, UNKNOWN
+train_test_split .. , 1121.8907833099365, 2054.182291030884, UNKNOWN
+train_test_split .. , 228.7755012512207, 2282.9577922821045, UNKNOWN
+train_test_split .. , 15.543699264526367, 15.543699264526367, UNKNOWN
+train_test_split .. , 887.0754241943359, 902.6191234588623, UNKNOWN
+train_test_split .. , 100.2645492553711, 1002.8836727142334, UNKNOWN
+train_test_split .. , 50.70137977600098, 1053.5850524902344, UNKNOWN
+train_test_split .. , 1236.83500289917, 2290.4200553894043, UNKNOWN
+train_test_split .. , 274.90949630737305, 2565.3295516967773, UNKNOWN
+train_test_split .. , 11.5203857421875, 11.5203857421875, UNKNOWN
+train_test_split .. , 786.0434055328369, 797.5637912750244, UNKNOWN
+train_test_split .. , 105.50165176391602, 903.0654430389404, UNKNOWN
+train_test_split .. , 43.678998947143555, 946.744441986084, UNKNOWN
+train_test_split .. , 1118.7334060668945, 2065.4778480529785, UNKNOWN
+train_test_split .. , 214.96200561523438, 2280.439853668213, UNKNOWN
+train_test_split .. , 971.3656902313232, 971.3656902313232, UNKNOWN
+train_test_split .. , 1334.9683284759521, 2306.3340187072754, UNKNOWN
+train_test_split .. , 161.851167678833, 2468.1851863861084, UNKNOWN
+train_test_split .. , 258.7587833404541, 2726.9439697265625, UNKNOWN
+train_test_split .. , 1192.803144454956, 3919.7471141815186, UNKNOWN
+train_test_split .. , 230.21435737609863, 4149.961471557617, UNKNOWN
+train_test_split .. , 10.614395141601562, 10.614395141601562, UNKNOWN
+train_test_split .. , 770.8826065063477, 781.4970016479492, UNKNOWN
+train_test_split .. , 92.34905242919922, 873.8460540771484, UNKNOWN
+train_test_split .. , 45.63021659851074, 919.4762706756592, UNKNOWN
+train_test_split .. , 1053.2598495483398, 1972.736120223999, UNKNOWN
+train_test_split .. , 195.64223289489746, 2168.3783531188965, UNKNOWN
+train_test_split .. , 8.023262023925781, 8.023262023925781, UNKNOWN
+train_test_split .. , 806.5621852874756, 814.5854473114014, UNKNOWN
+train_test_split .. , 105.46326637268066, 920.048713684082, UNKNOWN
+train_test_split .. , 40.65346717834473, 960.7021808624268, UNKNOWN
+train_test_split .. , 1095.9537029266357, 2056.6558837890625, UNKNOWN
+train_test_split .. , 204.60247993469238, 2261.258363723755, UNKNOWN
+train_test_split .. , 10.108232498168945, 10.108232498168945, UNKNOWN
+train_test_split .. , 903.179407119751, 913.2876396179199, UNKNOWN
+train_test_split .. , 128.96323204040527, 1042.2508716583252, UNKNOWN
+train_test_split .. , 10.11800765991211, 10.11800765991211, UNKNOWN
+train_test_split .. , 744.7128295898438, 754.8308372497559, UNKNOWN
+train_test_split .. , 97.64719009399414, 852.47802734375, UNKNOWN
+train_test_split .. , 13.352394104003906, 13.352394104003906, UNKNOWN
+train_test_split .. , 857.6345443725586, 870.9869384765625, UNKNOWN
+train_test_split .. , 107.58757591247559, 978.5745143890381, UNKNOWN
+train_test_split .. , 12.962102890014648, 12.962102890014648, UNKNOWN
+train_test_split .. , 794.0011024475098, 806.9632053375244, UNKNOWN
+train_test_split .. , 97.47624397277832, 904.4394493103027, UNKNOWN
+train_test_split .. , 44.5253849029541, 948.9648342132568, UNKNOWN
+train_test_split .. , 11.61813735961914, 11.61813735961914, UNKNOWN
+train_test_split .. , 777.167558670044, 788.7856960296631, UNKNOWN
+train_test_split .. , 106.64081573486328, 895.4265117645264, UNKNOWN
+train_test_split .. , 39.34884071350098, 934.7753524780273, UNKNOWN
+train_test_split .. , 14.532327651977539, 14.532327651977539, UNKNOWN
+train_test_split .. , 790.7207012176514, 805.2530288696289, UNKNOWN
+train_test_split .. , 101.14145278930664, 906.3944816589355, UNKNOWN
+train_test_split .. , 13.529062271118164, 13.529062271118164, UNKNOWN
+train_test_split .. , 886.6875171661377, 900.2165794372559, UNKNOWN
+train_test_split .. , 96.40741348266602, 996.6239929199219, UNKNOWN
+train_test_split .. , 48.72417449951172, 1045.3481674194336, UNKNOWN
+train_test_split .. , 1243.828535079956, 2289.1767024993896, UNKNOWN
+train_test_split .. , 262.8438472747803, 2552.02054977417, UNKNOWN
+train_test_split .. , 3.0024051666259766, 3.0024051666259766, UNKNOWN
+train_test_split .. , 863.9605045318604, 866.9629096984863, UNKNOWN
+train_test_split .. , 123.58951568603516, 990.5524253845215, UNKNOWN
+train_test_split .. , 2.9997825622558594, 2.9997825622558594, UNKNOWN
+train_test_split .. , 899.9600410461426, 902.9598236083984, UNKNOWN
+train_test_split .. , 97.8555679321289, 1000.8153915405273, UNKNOWN
+train_test_split .. , 3.5064220428466797, 3.5064220428466797, UNKNOWN
+train_test_split .. , 924.7658252716064, 928.2722473144531, UNKNOWN
+train_test_split .. , 110.66246032714844, 1038.9347076416016, UNKNOWN
+train_test_split .. , 31.908512115478516, 1070.84321975708, UNKNOWN
+train_test_split .. , 1107.731819152832, 2178.575038909912, UNKNOWN
+train_test_split .. , 233.55603218078613, 2412.1310710906982, UNKNOWN
+train_test_split .. , 4.508495330810547, 4.508495330810547, UNKNOWN
+train_test_split .. , 956.411600112915, 960.9200954437256, UNKNOWN
+train_test_split .. , 90.90757369995117, 1051.8276691436768, UNKNOWN
+train_test_split .. , 3.0035972595214844, 3.0035972595214844, UNKNOWN
+train_test_split .. , 926.959753036499, 929.9633502960205, UNKNOWN
+train_test_split .. , 106.54163360595703, 1036.5049839019775, UNKNOWN
+train_test_split .. , 0.0, 0.0, UNKNOWN
+train_test_split .. , 1035.0394248962402, 1035.0394248962402, UNKNOWN
+train_test_split .. , 97.74899482727051, 1132.7884197235107, UNKNOWN
+train_test_split .. , 6.2122344970703125, 6.2122344970703125, UNKNOWN
+train_test_split .. , 1043.6697006225586, 1049.881935119629, UNKNOWN
+train_test_split .. , 105.00240325927734, 1154.8843383789062, UNKNOWN
+train_test_split .. , 2.523183822631836, 2.523183822631836, UNKNOWN
+train_test_split .. , 936.7532730102539, 939.2764568328857, UNKNOWN
+train_test_split .. , 94.13528442382812, 1033.4117412567139, UNKNOWN
+train_test_split .. , 3.553152084350586, 3.553152084350586, UNKNOWN
+train_test_split .. , 1055.9701919555664, 1059.523344039917, UNKNOWN
+train_test_split .. , 129.54258918762207, 1189.065933227539, UNKNOWN
+train_test_split .. , 0.0, 0.0, UNKNOWN
+train_test_split .. , 865.0498390197754, 865.0498390197754, UNKNOWN
+train_test_split .. , 97.46503829956055, 962.5148773193359, UNKNOWN
