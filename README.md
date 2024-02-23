@@ -2,7 +2,7 @@ LSDA
 ================================
 LSDA is a transpiler that aims to optimize data science pipelines in python. We accomplish this by converting preprocessing operations to SQL and executing them in database systems during runtime. Currently, we are supporting only pandas operations.
 We build on the work of the [mlinspect framework](https://github.com/stefan-grafberger/mlinspect) and its extension [mlinspect-SQL](https://gitlab.db.in.tum.de/ge69xap/mlinspect) which can be used to inspect ML Pipelines for debugging purposes. 
-We use [XDB](https://dl.acm.org/doi/10.14778/3611540.3611625) to process cross-database queries. Since it is not publicly available, you would have to set up a PostgreSQL database system and change the query compilation step accordingly.
+We use [XDB](https://ieeexplore.ieee.org/document/10184600) to process cross-database queries. Since it is not publicly available, you would have to set up a PostgreSQL database system and change the query compilation step accordingly.
 
 
 ## Run mlinspect locally
