@@ -1,6 +1,9 @@
-mlinspect-SQL
+LSDA
 ================================
-This is an SQL extension to the [mlinspect framework](https://github.com/stefan-grafberger/mlinspect) to transpile Python library functions to SQL for execution within a database system.
+LSDA is a transpiler that aims to optimize data science pipelines in python. We accomplish this by converting preprocessing operations to SQL and executing them in database systems during runtime. Currently, we are supporting only pandas operations.
+We build on the work of the [mlinspect framework](https://github.com/stefan-grafberger/mlinspect) and its extension [mlinspect-SQL] (https://gitlab.db.in.tum.de/ge69xap/mlinspect) which can be used to inspect ML Pipelines for debugging purposes. 
+We use [XDB](https://dl.acm.org/doi/10.14778/3611540.3611625) to process cross-database queries. Since it is not publicly available, you would have to set up a PostgreSQL database system and change the query compilation step accordingly.
+
 
 ## Run mlinspect locally
 
@@ -28,9 +31,9 @@ Prerequisite: Python 3.8
     
 
 ## How to use the SQL backend
-We prepared two examples, the [first](notebooks/example_to_sql/to_sql_demo_pure_pipeline.ipynb) is to demonstrate execution of machine learning pipelines only, the [second](example_to_sql/to_sql_demo_inspection.ipynb) demonstrate a full end-to-end machine learning pipeline that compares the performance of different backends.
+We prepared one example, [TPC-H Query 3](example_to_sql/MeinBeispielMitDerNeuenDB-Query3.ipynb) to showcase LSDA's potential.
 
-In order to run the latter one, you need a PostgreSQL database system running (at port 5432) in the background with an user `luca` with password `password` that is allowed to copy from CSV files and has access to the respective database.
+In order to run the example, you need a PostgreSQL database system running in the background and provide its connection details.
 
 	create user luca;
 	alter role luca with password 'password';
@@ -38,37 +41,12 @@ In order to run the latter one, you need a PostgreSQL database system running (a
 	create database healthcare_benchmark;
 	grant all privileges on database healthcare_benchmark to luca;
 
-To also run the benchmarks in Umbra, you need an Umbra server running at port 5433.
 
-For more information on the functions supported w.r.t execution outsourced to DBMS, please see [here](mlinspect/monkeypatchingSQL/README.md).
-
-## How to use mlinspect
-mlinspect makes it easy to analyze your pipeline and automatically check for common issues.
-```python
-from mlinspect import PipelineInspector
-from mlinspect.inspections import MaterializeFirstOutputRows
-from mlinspect.checks import NoBiasIntroducedFor
-
-IPYNB_PATH = ...
-
-inspector_result = PipelineInspector\
-        .on_pipeline_from_ipynb_file(IPYNB_PATH)\
-        .add_required_inspection(MaterializeFirstOutputRows(5))\
-        .add_check(NoBiasIntroducedFor(['race']))\
-        .execute()
-
-extracted_dag = inspector_result.dag
-dag_node_to_inspection_results = inspector_result.dag_node_to_inspection_results
-check_to_check_results = inspector_result.check_to_check_results
-```
-
-With execution outsourced to a Database Management System (DBMS):
+## How to use LSDA
 
 ```python
 from mlinspect.to_sql.dbms_connectors.postgresql_connector import PostgresqlConnector
 from mlinspect import PipelineInspector
-from mlinspect.inspections import MaterializeFirstOutputRows
-from mlinspect.checks import NoBiasIntroducedFor
 
 dbms_connector = PostgresqlConnector(...)
 
@@ -76,8 +54,6 @@ IPYNB_PATH = ...
 
 inspector_result = PipelineInspector\
         .on_pipeline_from_ipynb_file(IPYNB_PATH)\
-        .add_required_inspection(MaterializeFirstOutputRows(5))\
-        .add_check(NoBiasIntroducedFor(['race']))\
         .execute_in_sql(dbms_connector=dbms_connector, mode="VIEW", materialize=True)
 
 extracted_dag = inspector_result.dag
