@@ -14,7 +14,7 @@ Prerequisite: Python 3.8
 
 	`cd mlinspect` <br>
 	`python -m venv venv` <br>
-	`source venv/bin/activate` <br>
+	`source venv/Scripts/activate` <br>
 
 3. If you want to use the visualisation functions we provide, install graphviz which can not be installed via pip
 
