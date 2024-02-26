@@ -56,7 +56,4 @@ inspector_result = PipelineInspector\
         .on_pipeline_from_ipynb_file(IPYNB_PATH)\
         .execute_in_sql(dbms_connector=dbms_connector, mode="VIEW", materialize=True)
 
-extracted_dag = inspector_result.dag
-dag_node_to_inspection_results = inspector_result.dag_node_to_inspection_results
-check_to_check_results = inspector_result.check_to_check_results
 ```
